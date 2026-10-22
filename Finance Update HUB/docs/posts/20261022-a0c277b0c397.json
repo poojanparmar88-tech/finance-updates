@@ -1,0 +1,44 @@
+{
+ "relevant": true,
+ "regulator": "High Court",
+ "category": "Judgment",
+ "headline": "Gujarat HC: No reopening under s.148 after draft order under s.144C lapses",
+ "reference": "Schaeffler India Limited vs Assistant Commissioner of Income Tax, Circle 1(1)(1), R/Special Civil Application No. 16245 of 2025, Gujarat High Court (Neutral Citation GJHC240814912025)",
+ "issued_on": "2026-10-12",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "Issue: Can the AO reopen under s.147/148 after the s.144C proceedings on the same TP adjustment lapsed without a final assessment order?",
+  "Held: No. The AO did not pass the final order within the s.144C(4) limit; reopening on the same material was impermissible.",
+  "The Court relied on Delhi HC rulings in Ved & Co. and KLM Royal Dutch Airlines: reassessment cannot extend the limitation for completing an assessment.",
+  "The Revenue did not claim any fresh material beyond what was examined in scrutiny and the draft order of 29.12.2023 (₹31,16,52,233 TP adjustment).",
+  "Notices dated 29.03.2025 and 16.06.2025 and the s.148A(3) order dated 14.06.2025 were quashed; no order as to costs."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Assessees facing reopening after a draft assessment order under s.144C lapsed without a final order, and the Income Tax Department's assessing officers.",
+ "action_required": "Review any s.148/148A notices issued on the same material after s.144C proceedings lapsed, and consider challenging them in writ jurisdiction citing this judgment.",
+ "social": {
+  "linkedin": "Gujarat High Court quashes reopening after a lapsed s.144C assessment.\n\nIn Schaeffler India Limited v. ACIT (R/SCA No. 16245 of 2025, judgment dated 12 October 2026), a draft assessment order under s.144C proposed a transfer pricing adjustment of ₹31,16,52,233 for AY 2021-22. The assessee chose not to file objections before the DRP, but the AO never passed the final order within the s.144C(4) limitation period.\n\nThe AO then issued notices under s.148A and s.148 on the very same transactions and amount.\n\nThe Division Bench held that:\n- Without a final order within limitation, the assessee's explanation is presumed to be accepted.\n- The Revenue showed no fresh material.\n- Reopening cannot be used to circumvent the Revenue's own failure to finalise the assessment in time.\n\nThe notices of 29.03.2025 and 16.06.2025 and the s.148A(3) order dated 14.06.2025 were quashed. The Court relied on the Delhi High Court decisions in Ved & Co. and KLM Royal Dutch Airlines.\n\nThis is useful for anyone dealing with reopening after incomplete or lapsed scrutiny proceedings.\n\nPlease verify the details against the official judgment before relying on it.",
+  "x": "Gujarat HC in Schaeffler India v ACIT: AO cannot reopen under s.148 on the same material after s.144C proceedings lapse without a final order. Notices quashed. Read more in our update.",
+  "instagram": "⚖️ Gujarat High Court on reopening of assessments\n\nThe AO issued a draft order under s.144C, then never passed the final order in time. Later, the AO tried to reopen under s.148 on the same ₹31.17 crore TP adjustment. 🚫\n\nThe High Court said no. The Revenue can't use reassessment to make up for its own delay. ⏳\n\nResult: notices and the s.148A(3) order were quashed. ✅\n\nCase: Schaeffler India Ltd v ACIT\n\nSave this for your next reassessment matter! 📌",
+  "whatsapp": "*Gujarat HC: reopening barred after lapsed s.144C proceedings*\n\nIn Schaeffler India Ltd v ACIT (12 Oct 2026), the Court quashed s.148 notices and the s.148A(3) order. The AO did not pass the final order within the s.144C(4) limit and reopened on the same material, with no fresh material. The Court held this impermissible.",
+  "hashtags": [
+   "#IncomeTax",
+   "#GujaratHighCourt",
+   "#Reassessment",
+   "#Section148",
+   "#TransferPricing",
+   "#Section144C",
+   "#TaxLitigation"
+  ]
+ },
+ "id": "20261022-a0c277b0c397",
+ "created_at": "2026-10-22T18:42:13+00:00",
+ "source_url": "https://indiankanoon.org/doc/104509549/",
+ "source_title": "Schaeffler India Limited vs Assistant Commissioner Of Income Tax , ... on 12 October, 2026",
+ "source_domain": "indiankanoon.org",
+ "source_type": "judgment"
+}

@@ -1,0 +1,72 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI limits INR NDDCs to hedging; 20% FERR on INR forex derivatives",
+ "reference": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27",
+ "issued_on": "October 12, 2026",
+ "effective_from": "Applicable to foreign exchange derivative contracts undertaken after issuance of the Directions (October 12, 2026)",
+ "format": "table",
+ "summary_points": [
+  "AD Category-I banks with IFSC Banking Units and standalone PDs (AD Cat-III) may offer INR NDDCs to non-residents only for hedging.",
+  "Earlier, such NDDCs could be offered without any restriction on purpose under Para 2.3(iii), Section I, Part A of the Master Direction.",
+  "ADs must maintain a Foreign Exchange Risk Reserve (FERR) on INR derivatives hedging their own assets and liabilities.",
+  "The directions apply to contracts undertaken after issuance and are issued under FEMA Sections 10(4), 11(1) and RBI Act Section 45W."
+ ],
+ "table": {
+  "columns": [
+   "Aspect",
+   "Requirement"
+  ],
+  "rows": [
+   [
+    "NDDCs involving INR for non-residents",
+    "Only for the purpose of hedging (earlier no purpose restriction)"
+   ],
+   [
+    "FERR applicability",
+    "Forex derivatives involving INR undertaken to hedge AD's own assets and liabilities, where AD purchases foreign currency against INR"
+   ],
+   [
+    "FERR quantum",
+    "20% of INR equivalent of notional amount of each contract"
+   ],
+   [
+    "Mode of maintenance",
+    "Cash in India with RBI, on a daily basis"
+   ],
+   [
+    "Duration",
+    "Until termination of the contract"
+   ],
+   [
+    "Applicability",
+    "Contracts undertaken after issuance of the Directions"
+   ]
+  ]
+ },
+ "who_is_affected": "Authorised Dealer banks (Category-I with IFSC Banking Units), standalone Primary Dealers authorised as AD Category-III, and non-resident users of INR NDDCs.",
+ "action_required": "ADs should restrict INR NDDCs for non-residents to hedging purposes and set up systems to compute and deposit the 20% FERR in cash with RBI daily for new contracts.",
+ "social": {
+  "linkedin": "RBI has issued A.P. (DIR Series) Circular No. 27 (RBI/2026-27/293) dated October 12, 2026 on Risk Management and Inter-Bank Dealings.\n\nKey changes:\n\n1. Non-deliverable derivative contracts (NDDCs) involving INR can now be offered to non-resident users only for hedging. Earlier, AD Category-I banks with IFSC Banking Units and standalone Primary Dealers (AD Category-III) could offer them without any purpose restriction.\n\n2. Authorised Dealers must maintain a Foreign Exchange Risk Reserve (FERR) for INR forex derivatives undertaken to hedge the currency risk of their own assets and liabilities, where they purchase foreign currency against INR.\n\n3. FERR is 20% of the INR equivalent of the notional amount of each contract, held in cash in India with RBI on a daily basis until the contract terminates.\n\nThe directions apply to contracts undertaken after issuance.\n\nTreasury and compliance teams at banks should review product offerings, liquidity impact and systems.\n\nPlease verify the details with the official RBI circular before acting.",
+  "x": "RBI Circular 27 (Oct 12, 2026): INR NDDCs for non-residents only for hedging; ADs must hold 20% FERR in cash with RBI on INR forex derivatives hedging own balance sheet. Applies to new contracts. Read more.",
+  "instagram": "🏦 RBI tightens INR derivative rules!\n\n✅ INR NDDCs for non-residents are now allowed only for hedging\n💰 Authorised Dealers must keep a 20% Foreign Exchange Risk Reserve (FERR) on certain INR derivatives\n📍 Held in cash with RBI, daily, until the contract ends\n🗓️ Applies to contracts after Oct 12, 2026\n\nBanks and treasury teams, time to review your processes!\n\nAlways check the official RBI circular for full details.",
+  "whatsapp": "*RBI Circular 27 (12 Oct 2026)*\n\n• INR NDDCs for non-residents: *only for hedging*\n• ADs to maintain *FERR of 20%* of notional in cash with RBI, daily, on INR forex derivatives hedging own assets/liabilities (where buying foreign currency vs INR)\n• Applies to new contracts\n\nPlease verify with the RBI source.",
+  "hashtags": [
+   "#RBI",
+   "#FEMA",
+   "#ForexDerivatives",
+   "#NDDC",
+   "#FERR",
+   "#Banking",
+   "#AuthorisedDealers",
+   "#IFSC"
+  ]
+ },
+ "id": "20261022-8a31942594bc",
+ "created_at": "2026-10-22T18:42:54+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
+ "source_title": "Risk Management and Inter-Bank Dealings",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
