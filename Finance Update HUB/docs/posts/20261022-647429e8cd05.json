@@ -1,0 +1,44 @@
+{
+ "relevant": true,
+ "regulator": "Supreme Court",
+ "category": "Judgment",
+ "headline": "SC: IBC Section 62 appeal limitation runs from NCLAT pronouncement, not receipt of copy",
+ "reference": "Assistant Commissioner of Central Tax, CGST Division v. Sreenivasa Rao Ravinuthala & Anr., Civil Appeal No. 7882 of 2023, Supreme Court, 2026 INSC 1121",
+ "issued_on": "2026-10-14",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "Issue: whether the 45-day period under Section 62(1) IBC runs from the date of NCLAT's order or from receipt of the certified copy.",
+  "Held: limitation runs from pronouncement; only 'time requisite' for a certified copy is excluded under Section 12(2) Limitation Act via Section 238-A IBC.",
+  "Outer limit is 45 days plus 15 condonable days (60 days). Time before applying for the copy is not excluded.",
+  "Revenue's appeal, filed after 76 countable days, was dismissed as barred by limitation, without examining the merits of the resolution plan.",
+  "Practical impact: apply for the certified copy immediately after the NCLAT order; delay cannot be condoned beyond 60 days."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Revenue authorities, resolution professionals, creditors, resolution applicants and lawyers filing IBC appeals before the Supreme Court under Section 62.",
+ "action_required": "Count limitation from the NCLAT pronouncement date, apply for the certified copy at once, and file well within the 45+15 day window.",
+ "social": {
+  "linkedin": "Supreme Court on limitation for IBC appeals (2026 INSC 1121)\n\nIn Assistant Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala, the Court dismissed the Revenue's appeal against an NCLAT order confirming a resolution plan, holding it time-barred.\n\nKey takeaways:\n- Under Section 62 IBC, the 45-day period runs from the date NCLAT pronounces its order, not from receipt of the certified copy.\n- Only the time requisite to obtain the copy is excluded under Section 12(2) of the Limitation Act. Delay in applying for it counts against the appellant.\n- The outer limit is 60 days (45 + 15 condonable). The Court has no power to condone beyond it.\n- Here, 35 days passed before applying for the copy and 41 after receiving it: 76 countable days, so the appeal failed on limitation alone.\n\nFor insolvency practitioners and litigators, the message is clear: apply for the certified copy immediately and track the 60-day ceiling strictly.\n\nPlease verify with the official judgment before relying on this update.",
+  "x": "SC (2026 INSC 1121): IBC Sec 62 appeal limitation runs from NCLAT pronouncement, not receipt of copy. Outer limit 60 days; only time taken to get certified copy is excluded. Revenue appeal dismissed as time-barred. Read more.",
+  "instagram": "⚖️ Supreme Court update for IBC appeals!\n\nThe Court has clarified that the clock for a Section 62 IBC appeal starts when NCLAT pronounces its order, not when you receive the certified copy. ⏰\n\n✅ 45 days + 15 condonable days = 60 days max\n✅ Only the time taken to get the certified copy is excluded\n❌ Delay before applying for the copy counts\n\nThe Revenue's appeal was dismissed as time-barred. 📌\n\nTip: apply for the certified copy on day one!",
+  "whatsapp": "*SC on IBC appeal limitation (2026 INSC 1121)*\nUnder Sec 62 IBC, limitation runs from NCLAT pronouncement, not receipt of the certified copy. Only time taken to obtain the copy is excluded. Max 60 days (45+15). Revenue's appeal dismissed as barred. Apply for the copy immediately!",
+  "hashtags": [
+   "#SupremeCourt",
+   "#IBC",
+   "#Insolvency",
+   "#NCLAT",
+   "#Limitation",
+   "#CGST",
+   "#CaseLaw"
+  ]
+ },
+ "id": "20261022-647429e8cd05",
+ "created_at": "2026-10-22T13:14:04+00:00",
+ "source_url": "https://indiankanoon.org/doc/186597255/",
+ "source_title": "The Assistant Commissioner Of Central ... vs Sreenivasa Rao Ravinuthala on 14 October, 2026",
+ "source_domain": "indiankanoon.org",
+ "source_type": "judgment"
+}

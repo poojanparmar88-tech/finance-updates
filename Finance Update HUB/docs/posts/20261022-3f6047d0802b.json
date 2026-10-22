@@ -1,0 +1,63 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI: UNSC amends 3 entries on ISIL (Da'esh) & Al-Qaida list; UAPA s.51A compliance",
+ "reference": "RBI/2026-27/296 DoR.AML.REC.250/14.06.001/2026-27",
+ "issued_on": "October 19, 2026",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "RBI has informed regulated entities of UNSC amendments to 3 entries on the ISIL (Da'esh) & Al-Qaida Sanctions List, per UNSC press release SC/16480 of October 15, 2026.",
+  "Entities must act under Chapter IX of the RBI KYC Directions, 2025 and follow the UAPA Order of February 02, 2021 (amended April 22, 2024).",
+  "De-listing requests received by banks go electronically to the Joint Secretary (CTCR), MHA; the UN Ombudsperson route is also available."
+ ],
+ "table": {
+  "columns": [
+   "Entry",
+   "Name / Type",
+   "Amended on"
+  ],
+  "rows": [
+   [
+    "QDi.082",
+    "Mounir El Motassadeq (individual)",
+    "15 Oct. 2026"
+   ],
+   [
+    "QDi.427",
+    "Noor Wali Mehsud (individual)",
+    "15 Oct. 2026"
+   ],
+   [
+    "QDe.132",
+    "Tehrik-e Taliban Pakistan (TTP) (entity)",
+    "15 Oct. 2026"
+   ]
+  ]
+ },
+ "who_is_affected": "Banks, small finance and payment banks, co-operative banks, RRBs, NBFCs, ARCs and AIFIs, which must screen accounts against the updated UNSC list.",
+ "action_required": "Update sanctions screening lists, check for any accounts or links to the amended entries and follow the UAPA Order procedure in Chapter IX of the KYC Directions.",
+ "social": {
+  "linkedin": "RBI has issued a circular on implementing Section 51A of the UAPA, 1967, following updates to the UNSC 1267/1989 ISIL (Da'esh) & Al-Qaida Sanctions List.\n\nThe UNSC (press release SC/16480, October 15, 2026) amended three entries: QDi.082 (Mounir El Motassadeq), QDi.427 (Noor Wali Mehsud) and QDe.132 (Tehrik-e Taliban Pakistan).\n\nKey points:\n- Applies to banks, NBFCs, ARCs, co-operative banks, RRBs and AIFIs.\n- Entities must act under Chapter IX of the RBI KYC Directions, 2025 and follow the UAPA Order dated February 02, 2021 (amended April 22, 2024).\n- De-listing requests received by banks are to be forwarded electronically to the Joint Secretary (CTCR), MHA.\n\nCompliance and AML teams should refresh screening databases and confirm there are no accounts matching the amended entries.\n\nCircular: RBI/2026-27/296 dated October 19, 2026. Please verify details with the official RBI source.",
+  "x": "RBI circular RBI/2026-27/296: UNSC amends 3 entries on ISIL (Da'esh) & Al-Qaida sanctions list. Banks, NBFCs and other REs must comply under UAPA s.51A and KYC Directions. Read more on the RBI website.",
+  "instagram": "🚨 RBI update for banks & NBFCs\n\nThe UNSC has amended 3 entries on its ISIL (Da'esh) & Al-Qaida sanctions list. RBI has asked regulated entities to comply under Section 51A of UAPA.\n\n✅ Entries amended: QDi.082, QDi.427, QDe.132\n✅ Follow Chapter IX of the KYC Directions, 2025\n✅ Follow the UAPA Order procedure\n\nCompliance teams: update your screening lists today! 🔍\n\nAlways check the official RBI circular for full details.",
+  "whatsapp": "*RBI Circular RBI/2026-27/296 (Oct 19, 2026)*\nUNSC amended 3 entries on ISIL (Da'esh) & Al-Qaida list (QDi.082, QDi.427, QDe.132). Banks, NBFCs, ARCs etc. must comply under UAPA s.51A and KYC Directions Chapter IX. Update screening lists.",
+  "hashtags": [
+   "#RBI",
+   "#UAPA",
+   "#KYC",
+   "#AML",
+   "#UNSC",
+   "#Banking",
+   "#NBFC",
+   "#Compliance"
+  ]
+ },
+ "id": "20261022-3f6047d0802b",
+ "created_at": "2026-10-22T13:13:39+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
+ "source_title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
