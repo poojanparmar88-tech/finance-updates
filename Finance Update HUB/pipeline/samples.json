@@ -1,0 +1,85 @@
+[
+ {
+  "relevant": true,
+  "regulator": "GST",
+  "category": "Circular",
+  "headline": "Sample post: how a GST circular update will look",
+  "reference": "Sample — circular number appears here",
+  "issued_on": "",
+  "effective_from": "",
+  "format": "summary",
+  "summary_points": [
+   "This is placeholder content to preview the layout. It is not a real update.",
+   "Real posts list 3–5 key points drawn only from the official text.",
+   "Notification numbers, dates and rates are never guessed — blank if unknown.",
+   "Sample posts are removed automatically on the first live run."
+  ],
+  "table": {"columns": [], "rows": []},
+  "who_is_affected": "Shown here in real posts: the taxpayers or entities this applies to.",
+  "action_required": "Shown here in real posts: what the reader should do next.",
+  "social": {
+   "linkedin": "Sample LinkedIn caption. Real posts get a 120–200 word professional write-up generated from the official source, ending with a reminder to verify with the source.",
+   "x": "Sample X caption (under 260 characters) with a link back to the post.",
+   "instagram": "Sample Instagram caption ✨\n\nShort, friendly, with line breaks.",
+   "whatsapp": "*Sample WhatsApp message* — short and forwardable.",
+   "hashtags": ["#GST", "#Sample"]
+  }
+ },
+ {
+  "relevant": true,
+  "regulator": "Income Tax",
+  "category": "Notification",
+  "headline": "Sample post: tabular format for due-date or rate changes",
+  "reference": "Sample — notification number appears here",
+  "issued_on": "",
+  "effective_from": "",
+  "format": "table",
+  "summary_points": [
+   "Placeholder content. Tabular posts are used for rate tables, due dates and old-vs-new comparisons.",
+   "The full table is always available in the app even if the image is cropped."
+  ],
+  "table": {
+   "columns": ["Column", "What appears here"],
+   "rows": [
+    ["Item", "Form, section or category affected"],
+    ["Earlier", "Previous rate / due date / provision"],
+    ["Now", "Revised rate / due date / provision"],
+    ["From", "Effective date if stated in the source"]
+   ]
+  },
+  "who_is_affected": "Shown here in real posts.",
+  "action_required": "Shown here in real posts.",
+  "social": {
+   "linkedin": "Sample LinkedIn caption for a tabular update.",
+   "x": "Sample X caption for a tabular update.",
+   "instagram": "Sample Instagram caption 📊",
+   "whatsapp": "*Sample* WhatsApp message.",
+   "hashtags": ["#IncomeTax", "#Sample"]
+  }
+ },
+ {
+  "relevant": true,
+  "regulator": "Supreme Court",
+  "category": "Judgment",
+  "headline": "Sample post: how a judgment summary will look",
+  "reference": "Sample — case name and citation appear here",
+  "issued_on": "",
+  "effective_from": "",
+  "format": "summary",
+  "summary_points": [
+   "Issue: the question of law before the court.",
+   "Held: what the court decided, in one line.",
+   "Impact: what changes in practice for taxpayers or companies."
+  ],
+  "table": {"columns": [], "rows": []},
+  "who_is_affected": "Shown here in real posts.",
+  "action_required": "Shown here in real posts.",
+  "social": {
+   "linkedin": "Sample LinkedIn caption for a judgment.",
+   "x": "Sample X caption for a judgment.",
+   "instagram": "Sample Instagram caption ⚖️",
+   "whatsapp": "*Sample* WhatsApp message.",
+   "hashtags": ["#SupremeCourt", "#Sample"]
+  }
+ }
+]

@@ -1,0 +1,7 @@
+anthropic>=0.80
+feedparser>=6.0
+requests>=2.32
+beautifulsoup4>=4.12
+pypdf>=5.0
+Pillow>=11.0
+PyYAML>=6.0

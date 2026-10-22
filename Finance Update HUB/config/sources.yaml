@@ -1,0 +1,72 @@
+# Sources the pipeline watches. Add, remove or edit freely (set `enabled: false` to pause one).
+#
+# type: rss               -> any RSS/Atom feed (RBI, Indian Kanoon judgment feeds)
+# type: cbic              -> CBIC Tax Information Portal API (official GST notifications/circulars + PDF)
+# type: incometax_portal  -> Income Tax e-filing portal "Latest News" (official CBDT notifications/circulars + PDF)
+# type: google_news       -> Google News search; only for regulators whose sites block automated access
+# type: html              -> scrape links from a listing page using a CSS selector
+#
+# source_type (shown in the app and given to Claude): official | judgment | news
+# regulator must be one of: Income Tax, GST, MCA, RBI, Supreme Court, High Court
+
+settings:
+  max_age_days: 7          # ignore items older than this (already-posted items are never repeated)
+  max_items_per_source: 15
+  max_new_per_run: 12      # cap Claude calls per run (cost control)
+  brand_handle: "CA Poojan Parmar"   # printed on every social post image
+  brand_name: "Finance Update Hub"
+
+sources:
+  # ---- RBI: official RSS feeds ----
+  - id: rbi-notifications
+    type: rss
+    regulator: RBI
+    url: https://www.rbi.org.in/notifications_rss.xml
+  - id: rbi-press
+    type: rss
+    regulator: RBI
+    url: https://www.rbi.org.in/pressreleases_rss.xml
+
+  # ---- Income Tax: Income Tax Department e-filing portal, links to the official PDF ----
+  - id: cbdt-official
+    type: incometax_portal
+    regulator: Income Tax
+    url: https://www.incometax.gov.in/iec/foportal/latest-news
+
+  # ---- GST: CBIC Tax Information Portal API, reads the official PDF ----
+  - id: cbic-gst-official
+    type: cbic
+    regulator: GST
+    tax_id: 1000001        # 1000001 = GST on the CBIC portal
+
+  # ---- MCA: mca.gov.in redirects every automated visit, so news reports are used ----
+  - id: mca-news
+    type: google_news
+    regulator: MCA
+    query: MCA companies notification India
+
+  # ---- Courts: full judgment text from Indian Kanoon's per-court feeds ----
+  # Two cheap checks run before any Claude call: the case title must name a tax / corporate /
+  # banking party (title_filter), and the judgment text must cite tax/corporate law 3+ times
+  # (text_filter). Add a High Court by copying a line below with its Indian Kanoon feed name.
+  - &court
+    id: sc-judgments
+    type: rss
+    regulator: Supreme Court
+    source_type: judgment
+    max_age_days: 21       # judgments appear online days after the decision date
+    url: https://indiankanoon.org/feeds/latest/supremecourt/
+    title_filter: 'income[ -]?tax|\bITO\b|\b[DAP]?CIT\b|assessing officer|commissioner|\bGST\b|goods and services|state tax|commercial tax|sales tax|customs|central excise|reserve bank|\bRBI\b|\bSEBI\b|securities and exchange|registrar of companies|liquidator|insolvency|resolution professional|\bbank\b|finance|M/S'
+    text_filter: 'income[- ]tax act|central goods and services tax|\bCGST\b|\bIGST\b|\bGST\b|companies act|insolvency and bankruptcy|banking regulation act|reserve bank of india act|customs act|central excise|finance act|\bSEBI\b|\bFEMA\b|assessment year|reassessment'
+  - {<<: *court, id: hc-delhi, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/delhi/"}
+  - {<<: *court, id: hc-bombay, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/bombay/"}
+  - {<<: *court, id: hc-gujarat, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/gujarat/"}
+  - {<<: *court, id: hc-karnataka, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/karnataka/"}
+  - {<<: *court, id: hc-madras, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/chennai/"}
+  - {<<: *court, id: hc-calcutta, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/kolkata/"}
+  - {<<: *court, id: hc-allahabad, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/allahabad/"}
+  - {<<: *court, id: hc-kerala, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/kerala/"}
+  - {<<: *court, id: hc-telangana, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/telangana/"}
+  - {<<: *court, id: hc-madhya-pradesh, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/madhyapradesh/"}
+  - {<<: *court, id: hc-patna, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/patna/"}
+  - {<<: *court, id: hc-orissa, regulator: High Court, url: "https://indiankanoon.org/feeds/latest/orissa/"}

@@ -1,0 +1,57 @@
+{
+ "relevant": true,
+ "regulator": "Income Tax",
+ "category": "Notification",
+ "headline": "Sample post: tabular format for due-date or rate changes",
+ "reference": "Sample — notification number appears here",
+ "issued_on": "",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "Placeholder content. Tabular posts are used for rate tables, due dates and old-vs-new comparisons.",
+  "The full table is always available in the app even if the image is cropped."
+ ],
+ "table": {
+  "columns": [
+   "Column",
+   "What appears here"
+  ],
+  "rows": [
+   [
+    "Item",
+    "Form, section or category affected"
+   ],
+   [
+    "Earlier",
+    "Previous rate / due date / provision"
+   ],
+   [
+    "Now",
+    "Revised rate / due date / provision"
+   ],
+   [
+    "From",
+    "Effective date if stated in the source"
+   ]
+  ]
+ },
+ "who_is_affected": "Shown here in real posts.",
+ "action_required": "Shown here in real posts.",
+ "social": {
+  "linkedin": "Sample LinkedIn caption for a tabular update.",
+  "x": "Sample X caption for a tabular update.",
+  "instagram": "Sample Instagram caption 📊",
+  "whatsapp": "*Sample* WhatsApp message.",
+  "hashtags": [
+   "#IncomeTax",
+   "#Sample"
+  ]
+ },
+ "id": "20261022-sample1",
+ "created_at": "2026-10-22T12:01:51+00:00",
+ "source_url": "https://example.com",
+ "source_title": "Sample post: tabular format for due-date or rate changes",
+ "source_domain": "example.com",
+ "source_type": "official",
+ "sample": true
+}
