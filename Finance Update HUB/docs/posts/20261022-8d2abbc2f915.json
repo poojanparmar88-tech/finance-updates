@@ -1,0 +1,59 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI: Underwriting auction for ₹33,000 crore G-Secs on October 23, 2026",
+ "reference": "Press Release: 2026-2027/1366",
+ "issued_on": "2026-10-22",
+ "effective_from": "2026-10-23",
+ "format": "table",
+ "summary_points": [
+  "Government of India to re-issue two dated securities worth ₹33,000 crore through auction on October 23, 2026 (Friday).",
+  "Underwriting auction uses the multiple price-based method under the underwriting scheme notified on November 14, 2007.",
+  "PDs bid for the ACU auction on e-Kuber between 9:00 AM and 9:30 AM on the auction day; commission is credited on the day of issue."
+ ],
+ "table": {
+  "columns": [
+   "Security",
+   "Notified Amount (₹ crore)",
+   "MUC per PD (₹ crore)",
+   "Min. ACU bid per PD (₹ crore)"
+  ],
+  "rows": [
+   [
+    "6.53% GS 2031",
+    "19,000",
+    "453",
+    "453"
+   ],
+   [
+    "7.71% GS 2066",
+    "14,000",
+    "334",
+    "334"
+   ]
+  ]
+ },
+ "who_is_affected": "Primary Dealers participating in the underwriting of government securities, and treasury teams of banks and institutions tracking G-Sec auctions.",
+ "action_required": "PDs must submit ACU auction bids on e-Kuber between 9:00 AM and 9:30 AM on October 23, 2026 to meet their minimum bidding commitments.",
+ "social": {
+  "linkedin": "RBI has issued a press release on the underwriting auction for the sale of Government Securities worth ₹33,000 crore, scheduled for October 23, 2026 (Friday).\n\nThe Government of India is re-issuing two securities: 6.53% GS 2031 (₹19,000 crore) and 7.71% GS 2066 (₹14,000 crore).\n\nUnder the underwriting scheme notified on November 14, 2007, each Primary Dealer has a Minimum Underwriting Commitment and a minimum ACU bidding commitment of ₹453 crore for the 2031 security and ₹334 crore for the 2066 security.\n\nThe underwriting auction will follow the multiple price-based method. PDs can bid electronically on RBI's e-Kuber system between 9:00 AM and 9:30 AM on the day. Underwriting commission will be credited to PDs' current accounts with RBI on the day of issue.\n\nTreasury and debt market teams may want to note the timelines.\n\nPlease verify the details with the official RBI press release (2026-2027/1366).",
+  "x": "RBI: Underwriting auction for ₹33,000 crore G-Secs on Oct 23, 2026. 6.53% GS 2031 (₹19,000 cr) and 7.71% GS 2066 (₹14,000 cr). PD bids on e-Kuber 9:00-9:30 AM. Read more on RBI's site.",
+  "instagram": "📢 RBI update for debt market watchers!\n\nThe Government is re-issuing G-Secs worth ₹33,000 crore via auction on Oct 23, 2026.\n\n📌 6.53% GS 2031: ₹19,000 crore\n📌 7.71% GS 2066: ₹14,000 crore\n\nPrimary Dealers have minimum underwriting and ACU bidding commitments of ₹453 crore and ₹334 crore respectively.\n\n⏰ ACU bids on e-Kuber: 9:00-9:30 AM on auction day.\n\nAlways cross-check with the official RBI release.",
+  "whatsapp": "*RBI: G-Sec underwriting auction, Oct 23, 2026*\nTotal ₹33,000 crore: 6.53% GS 2031 (₹19,000 cr), 7.71% GS 2066 (₹14,000 cr). MUC/ACU per PD: ₹453 cr and ₹334 cr. ACU bids on e-Kuber 9:00-9:30 AM. Ref: Press Release 2026-2027/1366.",
+  "hashtags": [
+   "#RBI",
+   "#GSec",
+   "#GovernmentSecurities",
+   "#PrimaryDealers",
+   "#DebtMarket",
+   "#Banking"
+  ]
+ },
+ "id": "20261022-8d2abbc2f915",
+ "created_at": "2026-10-22T18:56:54+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
+ "source_title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

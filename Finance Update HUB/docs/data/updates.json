@@ -1,5 +1,77 @@
 [
  {
+  "id": "20261022-c4e705e24441",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI amends AIFI capital adequacy norms on QCCP clearing member risk weight",
+  "reference": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
+  "issued_on": "October 07, 2026",
+  "created_at": "2026-10-22T18:57:07+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261022-8d2abbc2f915",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI: Underwriting auction for ₹33,000 crore G-Secs on October 23, 2026",
+  "reference": "Press Release: 2026-2027/1366",
+  "issued_on": "2026-10-22",
+  "created_at": "2026-10-22T18:56:54+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261022-5ddb3a46ec4f",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI raises minimum daily CRR maintenance from 90% to 99% from fortnight of Oct 16, 2026",
+  "reference": "RBI/2026-27/290 DoR.RET.REC.247/12.01.001/2026-27",
+  "issued_on": "October 09, 2026",
+  "created_at": "2026-10-22T18:56:44+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261022-59703ea9b561",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Gujarat HC quashes s.148 notice based on broker's inquiry register with no live link",
+  "reference": "Girishkumar Parahladbhai Patel vs Assistant Commissioner of Income Tax, Circle Gandhinagar, R/SCA No. 14731 of 2026 (Gujarat High Court), neutral citation GJHC240676752026",
+  "issued_on": "13 October 2026",
+  "created_at": "2026-10-22T18:56:32+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261022-a195dc85ab34",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI extends Directions on Suri Friends' Union Co-op Bank till January 22, 2027",
+  "reference": "Press Release: 2026-2027/1367",
+  "issued_on": "22 October 2026",
+  "created_at": "2026-10-22T18:56:14+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261022-ec472c55ecd1",
+  "regulator": "RBI",
+  "category": "Circular",
+  "headline": "RBI mandates 20% Foreign Exchange Risk Reserve on large INR forex derivative contracts",
+  "reference": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26",
+  "issued_on": "October 10, 2026",
+  "created_at": "2026-10-22T18:56:03+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261022-9e43c2ef6eaa",
   "regulator": "High Court",
   "category": "Judgment",

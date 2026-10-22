@@ -1,0 +1,78 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI mandates 20% Foreign Exchange Risk Reserve on large INR forex derivative contracts",
+ "reference": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26",
+ "issued_on": "October 10, 2026",
+ "effective_from": "Applies to foreign exchange derivative contracts undertaken after issuance of the Directions (October 10, 2026)",
+ "format": "table",
+ "summary_points": [
+  "Authorised Dealers must maintain a Foreign Exchange Risk Reserve (FERR) for INR forex derivative contracts with users.",
+  "Applies to contracts above USD 2 million equivalent hedging current account transactions where the user buys foreign currency against INR.",
+  "Splitting transactions across one or more Authorised Dealers to avoid the threshold is a violation of the Directions."
+ ],
+ "table": {
+  "columns": [
+   "Parameter",
+   "Requirement"
+  ],
+  "rows": [
+   [
+    "Applicability",
+    "Forex derivative contracts involving INR with users"
+   ],
+   [
+    "Threshold",
+    "Notional value above USD 2 million equivalent"
+   ],
+   [
+    "Purpose covered",
+    "Hedging current account transactions; user purchasing foreign currency against INR"
+   ],
+   [
+    "Reserve rate",
+    "20% of INR equivalent of notional amount of each contract"
+   ],
+   [
+    "Mode",
+    "Cash in India with RBI, deposited daily"
+   ],
+   [
+    "Duration",
+    "Until termination of the contract"
+   ],
+   [
+    "Reporting",
+    "Daily, through RBI's CIMS"
+   ],
+   [
+    "Anti-avoidance",
+    "Multiple transactions to circumvent threshold treated as violation"
+   ]
+  ]
+ },
+ "who_is_affected": "Authorised Dealer banks and corporate users who hedge current account exposures by buying foreign currency against INR through derivatives above USD 2 million.",
+ "action_required": "Authorised Dealers should set up daily cash FERR maintenance and CIMS reporting, and users should reassess hedging costs and avoid splitting contracts to bypass the threshold.",
+ "social": {
+  "linkedin": "RBI has introduced a Foreign Exchange Risk Reserve (FERR) for Authorised Dealers, through A.P. (DIR Series) Circular No. 26 dated October 10, 2026.\n\nKey points:\n\n• The reserve applies to forex derivative contracts involving INR with users, where the notional value exceeds USD 2 million equivalent and the contract hedges current account transactions with the user purchasing foreign currency against INR.\n\n• The reserve is 20% of the INR equivalent of the notional amount of each contract, deposited in cash with RBI daily and maintained until the contract terminates.\n\n• Attempts to bypass the threshold through multiple transactions with one or more Authorised Dealers will be treated as a violation.\n\n• Authorised Dealers must report FERR details daily through CIMS.\n\nThe Directions apply to contracts undertaken after issuance and are issued under FEMA Sections 10(4) and 11(1) and Section 45W of the RBI Act.\n\nTreasury teams and corporates with import-related hedging should assess the cost impact.\n\nPlease verify with the official RBI circular before acting.",
+  "x": "RBI mandates a 20% cash Foreign Exchange Risk Reserve on INR forex derivatives above USD 2 million hedging current account purchases of foreign currency. Applies to new contracts. Circular No. 26, Oct 10, 2026. Read more.",
+  "instagram": "💱 RBI update for forex hedgers!\n\nAuthorised Dealers must now keep a Foreign Exchange Risk Reserve (FERR) on certain INR derivative contracts.\n\n📌 Contracts above USD 2 million hedging current account purchases of foreign currency\n📌 Reserve: 20% of INR notional, in cash with RBI, daily\n📌 Held until the contract ends\n📌 Splitting deals to dodge the limit = violation 🚫\n\nApplies to contracts after October 10, 2026.\n\nImporters and treasury teams, check your hedging costs! 📊",
+  "whatsapp": "*RBI: Foreign Exchange Risk Reserve (FERR)*\n\nAuthorised Dealers must hold 20% cash reserve with RBI on INR forex derivatives above USD 2 million (hedging current account, user buying foreign currency). Applies to contracts after Oct 10, 2026. Splitting deals to avoid it is a violation. Daily CIMS reporting required.\n\nRef: A.P. (DIR) Circular No. 26",
+  "hashtags": [
+   "#RBI",
+   "#FEMA",
+   "#ForexDerivatives",
+   "#FERR",
+   "#AuthorisedDealers",
+   "#Banking",
+   "#ForeignExchange"
+  ]
+ },
+ "id": "20261022-ec472c55ecd1",
+ "created_at": "2026-10-22T18:56:03+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
+ "source_title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

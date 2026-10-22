@@ -1,0 +1,43 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI amends AIFI capital adequacy norms on QCCP clearing member risk weight",
+ "reference": "RBI/2026-27/289 DOR.MRG.REC.No.245/21-01-002/2026-27",
+ "issued_on": "October 07, 2026",
+ "effective_from": "October 07, 2026",
+ "format": "summary",
+ "summary_points": [
+  "RBI issues Fifth Amendment Directions, 2026 to the AIFI Prudential Norms on Capital Adequacy Directions, 2025.",
+  "Paragraph 77(6)(i)(a) is replaced to align with international standards on clearing member exposures to QCCPs.",
+  "A 2% risk weight applies to an AIFI's trade exposure to a QCCP for OTC derivatives, exchange traded derivatives and SFTs.",
+  "The 2% risk weight also applies where the AIFI clears for clients and must reimburse client losses if the QCCP defaults.",
+  "Amendment is issued under Section 45L of the RBI Act, 1934 and is effective from the date of issue."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "All India Financial Institutions acting as clearing members of Qualifying Central Counterparties (QCCPs), including those offering clearing services to clients.",
+ "action_required": "Affected AIFIs should review their capital adequacy computation for QCCP trade exposures and align it with the amended paragraph 77(6)(i)(a).",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026, dated October 07, 2026.\n\nWhat changes:\nParagraph 77(6)(i)(a) of the 2025 Directions is replaced, with the stated aim of aligning with international standards.\n\nKey points:\n- A 2% risk weight applies to an AIFI's trade exposure to a QCCP, covering OTC derivatives, exchange traded derivatives and SFTs, where it acts as a clearing member for its own purposes.\n- The 2% risk weight also applies where the AIFI offers clearing services to clients and is obligated to reimburse them for losses if the QCCP defaults.\n- The Directions are issued under Section 45L of the RBI Act, 1934 and take effect from the date of issue.\n\nAIFIs that are clearing members should revisit their capital adequacy calculations for QCCP exposures.\n\nPlease verify the details with the official RBI notification (RBI/2026-27/289) before acting.",
+  "x": "RBI amends AIFI capital adequacy norms: 2% risk weight on trade exposure to QCCPs, including where the AIFI must reimburse clients if the QCCP defaults. Effective 7 Oct 2026. RBI/2026-27/289. Read more.",
+  "instagram": "🏦 RBI update for AIFIs!\n\nRBI has amended the capital adequacy norms for All India Financial Institutions (Fifth Amendment Directions, 2026).\n\n✅ 2% risk weight on trade exposure to QCCPs (OTC derivatives, exchange traded derivatives, SFTs)\n✅ Also applies when the AIFI reimburses clients for losses if the QCCP defaults\n✅ Effective from 7 October 2026\n\nThe aim: align with international standards 🌍\n\nCheck the official RBI notification RBI/2026-27/289 for full details.",
+  "whatsapp": "*RBI: AIFI Capital Adequacy – Fifth Amendment Directions, 2026*\n\nPara 77(6)(i)(a) replaced. 2% risk weight on AIFI's trade exposure to QCCPs (OTC, exchange traded derivatives, SFTs), including where AIFI must reimburse client losses on QCCP default. Effective 7 Oct 2026.\n\nRef: RBI/2026-27/289",
+  "hashtags": [
+   "#RBI",
+   "#AIFI",
+   "#CapitalAdequacy",
+   "#PrudentialNorms",
+   "#QCCP",
+   "#BankingRegulation"
+  ]
+ },
+ "id": "20261022-c4e705e24441",
+ "created_at": "2026-10-22T18:57:07+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+ "source_title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

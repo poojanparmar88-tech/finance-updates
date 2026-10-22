@@ -1,0 +1,44 @@
+{
+ "relevant": true,
+ "regulator": "High Court",
+ "category": "Judgment",
+ "headline": "Gujarat HC quashes s.148 notice based on broker's inquiry register with no live link",
+ "reference": "Girishkumar Parahladbhai Patel vs Assistant Commissioner of Income Tax, Circle Gandhinagar, R/SCA No. 14731 of 2026 (Gujarat High Court), neutral citation GJHC240676752026",
+ "issued_on": "13 October 2026",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "Issue: Can a s.148 notice for AY 2022-23 rest on an entry in an inquiry register seized from a broker in a s.132 search on B Safal Group?",
+  "Held: The notice was quashed as there was no live, direct or indirect nexus between the register entry and the assessee's land purchase.",
+  "The register noting (16.01.2020) predated the 01.06.2021 sale deed, covered a larger area, and named unrelated persons; the broker's statement did not mention the assessee.",
+  "The Court followed Naliniben Gandhi, Trupti Desai and others, and disposed of this petition in terms of its 08.10.2026 judgment in SCA 13210 of 2026.",
+  "Practical impact: reopening on vague seized material, without a proven link to the assessee, is open to challenge in writ proceedings."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Assessees who received s.148 notices based on seized broker registers or on-money allegations in land deals, and the Income Tax Department's assessing officers.",
+ "action_required": "Review any reopening notice for a demonstrable live link to seized material and consider a writ challenge where none exists; verify the full judgment before relying on it.",
+ "social": {
+  "linkedin": "Gujarat High Court quashes a s.148 reopening notice for AY 2022-23 that relied on a broker's seized inquiry register.\n\nThe case: Girishkumar Parahladbhai Patel vs ACIT, Circle Gandhinagar (SCA 14731 of 2026, decided 13 October 2026). The Department alleged on-money payment on a land purchase at Bhadaj, based on a register noting from a search on B Safal Group.\n\nThe Court noted that the noting predated the sale deed by about 18 months, covered a larger area and several survey numbers, named unrelated persons, and that the broker's statement never mentioned the assessee.\n\nHeld: there was no live, direct or indirect nexus between the seized document and the assessee. The reopening rested on conjecture and surmise, so the notice was quashed. The Court followed its earlier rulings in Naliniben Gandhi and Trupti Desai, and applied its 08.10.2026 common judgment.\n\nTakeaway: seized material must genuinely relate to the assessee before s.148 can be invoked, and the s.292C presumption cannot fill that gap.\n\nPlease verify with the official judgment before relying on it.",
+  "x": "Gujarat HC quashes s.148 notice for AY 2022-23: a seized broker's inquiry register with no live link to the assessee can't justify reopening. Girishkumar Patel vs ACIT, SCA 14731/2026. Read more.",
+  "instagram": "⚖️ Gujarat High Court update!\n\nA s.148 reopening notice for AY 2022-23 has been quashed. 🏠\n\nThe Department relied on an entry in a broker's inquiry register seized in a search. But:\n✅ The entry predated the purchase by ~18 months\n✅ It named unrelated people\n✅ The broker never mentioned the assessee\n\nThe Court said there must be a live link between seized material and the assessee. No link, no reopening. 🚫\n\nCase: Girishkumar Parahladbhai Patel vs ACIT (13 Oct 2026)\n\nSave this for your next reassessment matter! 📌",
+  "whatsapp": "*Gujarat HC quashes s.148 notice (AY 2022-23)*\n\nIn Girishkumar Parahladbhai Patel vs ACIT (SCA 14731/2026, 13.10.2026), the Court held a broker's seized inquiry register had no live link with the assessee's land purchase. Reopening was based on conjecture; notice quashed, following its 08.10.2026 judgment.",
+  "hashtags": [
+   "#IncomeTax",
+   "#GujaratHighCourt",
+   "#Section148",
+   "#Reassessment",
+   "#SearchAndSeizure",
+   "#TaxLitigation",
+   "#CBDT"
+  ]
+ },
+ "id": "20261022-59703ea9b561",
+ "created_at": "2026-10-22T18:56:32+00:00",
+ "source_url": "https://indiankanoon.org/doc/122982958/",
+ "source_title": "Girishkumar Parahladbhai Patel vs Assistant Commissioner Of Income ... on 13 October, 2026",
+ "source_domain": "indiankanoon.org",
+ "source_type": "judgment"
+}

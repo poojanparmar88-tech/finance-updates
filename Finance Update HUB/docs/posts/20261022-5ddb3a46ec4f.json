@@ -1,0 +1,61 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI raises minimum daily CRR maintenance from 90% to 99% from fortnight of Oct 16, 2026",
+ "reference": "RBI/2026-27/290 DoR.RET.REC.247/12.01.001/2026-27",
+ "issued_on": "October 09, 2026",
+ "effective_from": "Fortnight beginning October 16, 2026",
+ "format": "table",
+ "summary_points": [
+  "RBI has raised the minimum daily CRR maintenance requirement for scheduled banks under Section 42(1) of the RBI Act, 1934.",
+  "The change follows a review of current liquidity conditions.",
+  "The average of daily CRR maintained must still not fall below the CRR prescribed by RBI over the reporting fortnight."
+ ],
+ "table": {
+  "columns": [
+   "Parameter",
+   "Earlier",
+   "Now"
+  ],
+  "rows": [
+   [
+    "Minimum daily CRR maintenance (as % of required CRR)",
+    "90%",
+    "99%"
+   ],
+   [
+    "Effective from",
+    "Existing",
+    "Fortnight beginning October 16, 2026"
+   ],
+   [
+    "Fortnightly average requirement",
+    "Not below prescribed CRR",
+    "Unchanged"
+   ]
+  ]
+ },
+ "who_is_affected": "All scheduled banks, which now have much less room to run daily CRR balances below the required level.",
+ "action_required": "Banks should align their treasury and liquidity management so that daily CRR balances stay at or above 99% of the requirement from the fortnight beginning October 16, 2026.",
+ "social": {
+  "linkedin": "RBI has tightened the daily Cash Reserve Ratio (CRR) maintenance norm for scheduled banks.\n\nUnder Section 42(1) of the RBI Act, 1934, banks could so far maintain at least 90% of the required CRR on all days of the reporting fortnight, as long as the daily average met the prescribed CRR.\n\nVide circular RBI/2026-27/290 dated October 9, 2026, the minimum daily maintenance has been raised from 90% to 99% of the requirement, following a review of current liquidity conditions.\n\nEffective date: fortnight beginning October 16, 2026.\n\nWhat it means: banks will have far less flexibility to manage day-to-day CRR balances, and treasury teams will need to plan daily liquidity more closely. The fortnightly average requirement remains unchanged.\n\nPlease verify the details with the official RBI circular before acting.",
+  "x": "RBI raises minimum daily CRR maintenance for scheduled banks from 90% to 99% of the requirement, effective from the fortnight beginning Oct 16, 2026 (RBI/2026-27/290). Read more in our update.",
+  "instagram": "🏦 RBI update on CRR!\n\nThe minimum daily Cash Reserve Ratio maintenance for scheduled banks goes up from 90% to 99% of the requirement.\n\n📅 Effective from the fortnight beginning October 16, 2026.\n\n💡 Why? RBI reviewed current liquidity conditions.\n\n✅ The fortnightly average CRR requirement stays the same, but banks now have much less room for daily dips.\n\nSave this for your next banking update! 📌",
+  "whatsapp": "*RBI: Daily CRR maintenance raised*\n\nMinimum daily CRR for scheduled banks goes from 90% to *99%* of the requirement, effective the fortnight beginning *October 16, 2026* (RBI/2026-27/290, dated Oct 9, 2026). Fortnightly average requirement is unchanged.",
+  "hashtags": [
+   "#RBI",
+   "#CRR",
+   "#Banking",
+   "#MonetaryPolicy",
+   "#Liquidity",
+   "#RBICircular"
+  ]
+ },
+ "id": "20261022-5ddb3a46ec4f",
+ "created_at": "2026-10-22T18:56:44+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
+ "source_title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
