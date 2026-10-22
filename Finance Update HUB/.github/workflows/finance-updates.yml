@@ -1,0 +1,69 @@
+name: Finance updates
+
+on:
+  schedule:
+    - cron: "30 2-16/2 * * *"   # every 2 hours, 08:00–22:00 IST
+  workflow_dispatch:            # "Run workflow" button for an immediate run
+
+permissions:
+  contents: write   # commit new posts back to the repository
+  pages: write      # publish the web app
+  id-token: write
+
+concurrency:
+  group: finance-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y --no-install-recommends fonts-dejavu-core || true
+          pip install -r requirements.txt
+
+      - name: Fetch, summarise and render
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.run
+
+      - name: Save posts to the repository
+        run: |
+          git config user.name "finance-update-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Updates $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      # Runs after deployment so the link and image in the notification already work.
+      - name: Send notifications
+        env:
+          SITE_URL: ${{ steps.deploy.outputs.page_url }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m pipeline.notify
