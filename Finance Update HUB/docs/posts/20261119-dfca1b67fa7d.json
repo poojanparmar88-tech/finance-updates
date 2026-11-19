@@ -1,0 +1,79 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI: 15 States to raise ₹31,950 crore via SGS auction on Nov 23, 2026",
+ "reference": "Press Release 2026-2027/1526",
+ "issued_on": "2026-11-19",
+ "effective_from": "2026-11-23",
+ "format": "table",
+ "summary_points": [
+  "15 State Governments have offered to sell stock by auction for an aggregate ₹31,950 crore (face value).",
+  "Auction on RBI's E-Kuber on Nov 23, 2026; competitive bids 10:30-11:30 AM, non-competitive 10:30-11:00 AM.",
+  "Results on Nov 23, 2026; payment by successful bidders on Nov 25, 2026. Minimum bid ₹10,000 in multiples of ₹10,000.",
+  "SGS investments count as SLR-eligible for banks under Section 24 of the Banking Regulation Act, 1949."
+ ],
+ "table": {
+  "columns": [
+   "State",
+   "Amount (₹ crore)"
+  ],
+  "rows": [
+   [
+    "Tamil Nadu",
+    "9,500"
+   ],
+   [
+    "Uttar Pradesh",
+    "3,500"
+   ],
+   [
+    "Bihar",
+    "3,000"
+   ],
+   [
+    "Haryana",
+    "4,000"
+   ],
+   [
+    "Gujarat",
+    "2,500"
+   ],
+   [
+    "Karnataka",
+    "2,000"
+   ],
+   [
+    "Chhattisgarh",
+    "1,500"
+   ],
+   [
+    "Keralam",
+    "1,500"
+   ]
+  ]
+ },
+ "who_is_affected": "Banks, primary dealers, insurers, mutual funds, provident funds and retail investors bidding in State Government Securities.",
+ "action_required": "Eligible bidders should submit competitive or non-competitive bids on E-Kuber (or Retail Direct for individuals) within the stipulated timings on November 23, 2026.",
+ "social": {
+  "linkedin": "RBI has announced the auction of State Government Securities for an aggregate ₹31,950 crore (face value), with 15 State Governments participating.\n\nKey details:\n- Auction date: November 23, 2026 (Monday) on RBI's E-Kuber system\n- Competitive bids: 10:30 AM to 11:30 AM; non-competitive bids: 10:30 AM to 11:00 AM\n- Results on the same day; payment by successful bidders on November 25, 2026\n- Minimum nominal amount ₹10,000 and in multiples thereafter\n- Up to 10% of the notified amount of each stock is reserved for non-competitive bidders, capped at 1% per single bid\n\nThe stocks are SLR-eligible for banks under Section 24 of the Banking Regulation Act, 1949, and qualify for the ready forward facility. Several tranches are re-issues of existing SGS, while others are yield-based auctions of new stock.\n\nTreasury teams and investors should plan their bids and funding accordingly.\n\nPlease verify the details, including the state-wise schedule, with the official RBI press release.",
+  "x": "RBI announces auction of State Government Securities worth ₹31,950 crore on Nov 23, 2026. 15 States participating; results same day, payment Nov 25. SLR-eligible. Read more on the RBI website.",
+  "instagram": "📢 RBI SGS auction alert!\n\n15 State Governments are looking to raise ₹31,950 crore through State Government Securities. 💰\n\n🗓️ Auction: 23 Nov 2026 (Monday)\n🖥️ Platform: RBI E-Kuber\n⏰ Competitive bids: 10:30-11:30 AM\n✅ Payment: 25 Nov 2026\n\nRetail investors can bid via the Retail Direct portal under the non-competitive scheme. Minimum investment: ₹10,000.\n\nCheck the official RBI release for the state-wise details!",
+  "whatsapp": "*RBI: Auction of State Government Securities*\n\n15 States to raise ₹31,950 crore on *23 Nov 2026* via E-Kuber. Competitive bids 10:30-11:30 AM. Payment on 25 Nov 2026. Minimum ₹10,000. SLR-eligible. Verify state-wise details on rbi.org.in.",
+  "hashtags": [
+   "#RBI",
+   "#StateGovernmentSecurities",
+   "#SGS",
+   "#GovernmentSecurities",
+   "#DebtMarket",
+   "#Banking",
+   "#SLR"
+  ]
+ },
+ "id": "20261119-dfca1b67fa7d",
+ "created_at": "2026-11-19T20:52:26+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64004",
+ "source_title": "Auction of State Government Securities",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

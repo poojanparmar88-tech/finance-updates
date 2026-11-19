@@ -1,0 +1,84 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI reassigns Lead Bank responsibility after Delhi district re-organisation",
+ "reference": "RBI/2026-27/300 FIDD.CO.LBS.BC.No.12/02.08.001/2026-27",
+ "issued_on": "October 26, 2026",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "Delhi Government's re-organisation created three new districts: Old Delhi, Central North and Outer North; Shahdara district has ceased to exist.",
+  "Lead Bank responsibility assigned for the new districts, and changed for Central and Northwest districts.",
+  "Bank of Baroda's Lead Bank responsibility for Shahdara (code 369) stands revoked; other districts remain unchanged till further communication."
+ ],
+ "table": {
+  "columns": [
+   "District",
+   "Earlier Lead Bank",
+   "Lead Bank now",
+   "Code"
+  ],
+  "rows": [
+   [
+    "Old Delhi (new)",
+    "-",
+    "Canara Bank",
+    "03E"
+   ],
+   [
+    "Central North (new)",
+    "-",
+    "State Bank of India",
+    "03F"
+   ],
+   [
+    "Outer North (new)",
+    "-",
+    "Punjab National Bank",
+    "03G"
+   ],
+   [
+    "Central",
+    "Canara Bank",
+    "State Bank of India",
+    "358"
+   ],
+   [
+    "Northwest",
+    "Punjab National Bank",
+    "Union Bank of India",
+    "362"
+   ],
+   [
+    "Shahdara (ceased)",
+    "Bank of Baroda",
+    "Revoked",
+    "369"
+   ]
+  ]
+ },
+ "who_is_affected": "Lead banks concerned in the NCT of Delhi (Canara Bank, SBI, PNB, Union Bank of India, Bank of Baroda) and the State Level Bankers' Committee for Delhi.",
+ "action_required": "Affected banks should take over or hand over Lead Bank responsibilities for the districts as notified and update district working codes in their records and reporting.",
+ "social": {
+  "linkedin": "RBI has issued a circular (RBI/2026-27/300) on Lead Bank responsibility following the Delhi Government's re-organisation of districts in the NCT of Delhi.\n\nThe Delhi Government's Gazette Notification dated December 25, 2025 created three new districts: Old Delhi, Central North and Outer North. Shahdara district has ceased to exist.\n\nKey changes:\n- Old Delhi: Canara Bank (code 03E)\n- Central North: State Bank of India (code 03F)\n- Outer North: Punjab National Bank (code 03G)\n- Central (358): Canara Bank to State Bank of India\n- Northwest (362): Punjab National Bank to Union Bank of India\n- Shahdara (369): Bank of Baroda's responsibility revoked\n\nIn all other districts, existing Lead Banks continue until further communication.\n\nBanks, SLBC teams and financial inclusion and credit planning professionals should update their records and reporting accordingly.\n\nPlease verify the details with the official RBI circular before acting.",
+  "x": "RBI reassigns Lead Bank roles after Delhi's district re-organisation: Old Delhi - Canara, Central North - SBI, Outer North - PNB; Shahdara's BoB role revoked. Read more in the RBI circular RBI/2026-27/300.",
+  "instagram": "🏦 RBI update: Delhi's districts were re-organised, and Lead Bank roles have changed!\n\n✅ Old Delhi: Canara Bank\n✅ Central North: State Bank of India\n✅ Outer North: Punjab National Bank\n🔄 Central: now SBI\n🔄 Northwest: now Union Bank of India\n❌ Shahdara: Bank of Baroda's role revoked\n\nAll other districts stay unchanged for now.\n\nSave this for your banking reference 📌",
+  "whatsapp": "*RBI Circular RBI/2026-27/300 (Oct 26, 2026)*\nLead Bank changes after Delhi district re-organisation:\n• Old Delhi: Canara Bank\n• Central North: SBI\n• Outer North: PNB\n• Central: now SBI\n• Northwest: now Union Bank\n• Shahdara: BoB role revoked\nOther districts unchanged.",
+  "hashtags": [
+   "#RBI",
+   "#LeadBank",
+   "#Banking",
+   "#Delhi",
+   "#SLBC",
+   "#FinancialInclusion",
+   "#RBICircular"
+  ]
+ },
+ "id": "20261119-8e15015a6706",
+ "created_at": "2026-11-19T20:53:17+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+ "source_title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

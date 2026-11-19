@@ -1,5 +1,77 @@
 [
  {
+  "id": "20261119-8e15015a6706",
+  "regulator": "RBI",
+  "category": "Circular",
+  "headline": "RBI reassigns Lead Bank responsibility after Delhi district re-organisation",
+  "reference": "RBI/2026-27/300 FIDD.CO.LBS.BC.No.12/02.08.001/2026-27",
+  "issued_on": "October 26, 2026",
+  "created_at": "2026-11-19T20:53:17+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261119-8d098a3d64e5",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "MP HC: Co-op society's interest from co-op bank deposits eligible for s.80P(2)(d) deduction",
+  "reference": "Pr. CIT-1 vs M.P. Matsya Mahasangh Sahkari, ITA No. 31 of 2026, Madhya Pradesh High Court (Jabalpur)",
+  "issued_on": "17-11-2026",
+  "created_at": "2026-11-19T20:53:05+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261119-be6ec902c015",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Telangana HC: Additional Commissioner valid proper officer for GST orders above ₹2 crore",
+  "reference": "M/s UBV Infrastructures Ltd. v. Union of India & others, WP No. 37085 of 2026, Telangana High Court, order dated 18.11.2026",
+  "issued_on": "2026-11-18",
+  "created_at": "2026-11-19T20:52:53+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261119-4920728f475c",
+  "regulator": "MCA",
+  "category": "Other",
+  "headline": "MCA reportedly seeks to widen CSR scope to include PM Internship Scheme",
+  "reference": "",
+  "issued_on": "2026-11-19",
+  "created_at": "2026-11-19T20:52:34+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261119-dfca1b67fa7d",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI: 15 States to raise ₹31,950 crore via SGS auction on Nov 23, 2026",
+  "reference": "Press Release 2026-2027/1526",
+  "issued_on": "2026-11-19",
+  "created_at": "2026-11-19T20:52:26+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261119-6970963ce96a",
+  "regulator": "RBI",
+  "category": "Circular",
+  "headline": "RBI: UNSC removes 3 entries from ISIL (Da'esh) & Al-Qaida list; REs to act under UAPA s.51A",
+  "reference": "RBI/2026-27/301 DoR.AML.REC.253/14.06.001/2026-27",
+  "issued_on": "October 27, 2026",
+  "created_at": "2026-11-19T20:52:15+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261119-4ed26faa2baa",
   "regulator": "RBI",
   "category": "Press Release",
