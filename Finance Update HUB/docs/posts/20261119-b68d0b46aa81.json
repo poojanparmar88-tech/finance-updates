@@ -1,0 +1,86 @@
+{
+ "relevant": true,
+ "regulator": "GST",
+ "category": "Notification",
+ "headline": "CBIC corrigendum corrects CGST (Amendment) Rules, 2026 (G.S.R. 919(E))",
+ "reference": "Corrigenda to CGST (Amendment) Rules, 2026, G.S.R. 919(E) dated 26 October 2026 (F. No. CBIC-20001/1/2026-GST)",
+ "issued_on": "2026-11-18",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "CBIC has issued corrigenda to the English version of the CGST (Amendment) Rules, 2026 published vide G.S.R. 919(E) dated 26 October 2026.",
+  "Most changes are typographical or renumbering fixes, such as clause numbering, 'Aadhar' to 'Aadhaar' and 'permission' to 'consent'.",
+  "Some corrections change substance: provisos on revalidation of RFD-05/RFD-06 are inserted and the ITC refund declaration wording is revised."
+ ],
+ "table": {
+  "columns": [
+   "Page / item",
+   "Correction",
+   "Nature"
+  ],
+  "rows": [
+   [
+    "Page 114",
+    "'permission' replaced by 'consent'; 'representative' replaced by 'person'",
+    "Wording"
+   ],
+   [
+    "Page 114",
+    "Duty to 'keep and maintain' extended to 'the books of accounts and records'",
+    "Clarification"
+   ],
+   [
+    "Page 117",
+    "Lines 8-9 replaced: officer to issue an order communicated electronically, within days from receipt of application under sub-rule (6)",
+    "Text fixed"
+   ],
+   [
+    "Page 122",
+    "New provisos: FORM GST RFD-06 order need not be revalidated; RFD-05 payment order must be revalidated if refund is not disbursed in the same financial year",
+    "Insertion"
+   ],
+   [
+    "Page 128-129",
+    "Document list renumbered; proof of address list now includes property tax receipt, Khata copy, electricity and water bills",
+    "Text fixed"
+   ],
+   [
+    "Page 149",
+    "'seven days' replaced by 'seven working days'",
+    "Substantive wording"
+   ],
+   [
+    "Page 161",
+    "Refund declaration now says ITC claimed excludes ITC blocked under section 17(5) and ITC on nil-rated or fully exempt supplies",
+    "Declaration revised"
+   ],
+   [
+    "Page 182",
+    "Reference to last amendment updated to notification No. 20/2025-Central Tax, G.S.R. 950(E), 31 December 2025",
+    "Reference"
+   ]
+  ]
+ },
+ "who_is_affected": "Registered taxpayers, refund claimants, GST practitioners and tax officers relying on the CGST (Amendment) Rules, 2026 as published on 26 October 2026.",
+ "action_required": "Read the original G.S.R. 919(E) together with this corrigendum, and update checklists, refund declarations and registration document lists accordingly.",
+ "social": {
+  "linkedin": "CBIC has issued corrigenda to the CGST (Amendment) Rules, 2026 (G.S.R. 919(E) dated 26 October 2026), with the corrigendum dated 18 November 2026.\n\nMost of the 40 corrections are typographical or renumbering fixes, such as 'Aadhar' to 'Aadhaar' and 'permission' to 'consent'.\n\nA few corrections deserve attention:\n- New provisos on revalidation: the RFD-06 order need not be revalidated, but the RFD-05 payment order must be revalidated if the refund is not disbursed in the same financial year.\n- 'Seven days' becomes 'seven working days' on page 149.\n- The ITC refund declaration now excludes ITC blocked under section 17(5) and ITC on nil-rated or fully exempt supplies.\n- The proof of address list now includes property tax receipt, Khata copy and utility bills.\n\nPractitioners should read the amended Rules along with the corrigendum before updating refund and registration workflows.\n\nPlease verify with the official CBIC notification before acting.",
+  "x": "CBIC issues corrigenda to CGST (Amendment) Rules, 2026 (G.S.R. 919(E)): new RFD-05/RFD-06 revalidation provisos, 'seven working days', revised ITC refund declaration. Read with the original Rules. #GST",
+  "instagram": "📢 GST update!\n\nCBIC has issued corrigenda to the CGST (Amendment) Rules, 2026.\n\n✅ Mostly typo and numbering fixes\n✅ 'Permission' becomes 'consent'\n✅ RFD-05 payment orders need revalidation if refund isn't paid in the same financial year\n✅ 'Seven days' becomes 'seven working days'\n✅ ITC refund declaration reworded\n\nRead the Rules along with the corrigendum before filing or advising. 📑\n\nCheck the official CBIC source for details.",
+  "whatsapp": "*GST: Corrigendum to CGST (Amendment) Rules, 2026*\n\nCBIC corrected G.S.R. 919(E) on 18 Nov 2026. Key points:\n- RFD-05 payment order revalidation if refund is unpaid in the same FY\n- 'Seven working days' replaces 'seven days'\n- ITC refund declaration reworded\n\nRead with the original Rules.",
+  "hashtags": [
+   "#GST",
+   "#CBIC",
+   "#CGSTRules",
+   "#Corrigendum",
+   "#GSTRefund",
+   "#IndirectTax"
+  ]
+ },
+ "id": "20261119-b68d0b46aa81",
+ "created_at": "2026-11-19T10:34:50+00:00",
+ "source_url": "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+ "source_title": "Notification No. Corrigendum: Corrigendum for CGST Amendment rules 2026 issued vide notification 05/2026-Central Tax",
+ "source_domain": "taxinformation.cbic.gov.in",
+ "source_type": "official"
+}

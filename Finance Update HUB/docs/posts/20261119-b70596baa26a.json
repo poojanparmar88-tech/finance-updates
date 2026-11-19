@@ -1,0 +1,75 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI eases EDF and IDPMS norms for service exports and imports up to ₹10 lakh",
+ "reference": "Notification No. FEMA 23(R)/(2)/2026-RB",
+ "issued_on": "2026-11-02",
+ "effective_from": "2026-10-01",
+ "format": "table",
+ "summary_points": [
+  "RBI amends the FEMA Export and Import of Goods and Services Regulations, 2026 (FEMA 23(R)/2026-RB) through the Second Amendment Regulations.",
+  "A new definition of 'resident individual' is inserted: a person resident in India who is a natural person.",
+  "Service exporters are deemed to have submitted the EDF once payment details are given to the Authorised Dealer, subject to conditions based on exporter type and value.",
+  "AD banks need to enter service import details in IDPMS only where the importer is not a resident individual and the invoice or contract value exceeds ₹10 lakh."
+ ],
+ "table": {
+  "columns": [
+   "Provision",
+   "Change"
+  ],
+  "rows": [
+   [
+    "Regulation 2(1)(da)",
+    "New definition of 'resident individual' (natural person resident in India)"
+   ],
+   [
+    "Reg 3(2) proviso (a)",
+    "Resident individual exporter of services: EDF deemed submitted on providing payment receipt information to the AD"
+   ],
+   [
+    "Reg 3(2) proviso (b)",
+    "Non-individual exporter: EDF deemed submitted if inward remittance is not more than ₹10 lakh (or equivalent)"
+   ],
+   [
+    "Reg 3(2) existing provisos",
+    "Renumbered from (a), (b), (c) to (c), (d), (e)"
+   ],
+   [
+    "Reg 18(1)(d)",
+    "AD to enter service import details in IDPMS only for non-resident-individual importers with invoice/contract value above ₹10 lakh"
+   ],
+   [
+    "Reg 18(1)(d) timeline",
+    "Five working days from receipt of details (earlier: receipt of documents)"
+   ],
+   [
+    "Commencement",
+    "Regulations come into force from October 01, 2026"
+   ]
+  ]
+ },
+ "who_is_affected": "Exporters and importers of services (especially resident individuals and businesses with transactions up to ₹10 lakh) and Authorised Dealer banks.",
+ "action_required": "Authorised Dealers and service exporters or importers should align EDF and IDPMS processes with the amended regulations, noting the stated commencement date of October 01, 2026.",
+ "social": {
+  "linkedin": "RBI has notified the Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 (Notification No. FEMA 23(R)/(2)/2026-RB dated November 02, 2026), easing compliance for service transactions.\n\nKey changes:\n\n- 'Resident individual' is now defined as a person resident in India who is a natural person.\n- A resident individual exporting services is deemed to have submitted the EDF when payment receipt information is provided to the Authorised Dealer.\n- For other exporters, the deemed EDF submission applies where the inward remittance is not more than ₹10 lakh (or equivalent in foreign currency).\n- For service imports, the AD enters details in IDPMS only where the importer is not a resident individual and the invoice or contract value exceeds ₹10 lakh, within five working days of receipt of details.\n\nThe regulations are stated to come into force from October 01, 2026.\n\nAD banks, service exporters and importers should review their documentation and reporting workflows accordingly.\n\nPlease verify the details with the official RBI notification before acting.",
+  "x": "RBI notifies FEMA 23(R)/(2)/2026-RB: EDF deemed submitted for service exports by resident individuals and up to ₹10 lakh for others; IDPMS entry only for imports above ₹10 lakh. Read more.",
+  "instagram": "📢 RBI update for service exporters & importers!\n\nWhat's new under FEMA 23(R)/(2)/2026-RB:\n✅ 'Resident individual' now defined\n✅ Deemed EDF submission for service exports by resident individuals\n✅ Same relief for others if remittance is up to ₹10 lakh\n✅ IDPMS entry for service imports only above ₹10 lakh (non-individual importers)\n\nLess paperwork for smaller transactions 🎯\n\nEffective from October 01, 2026.\n\nCheck the official RBI notification for full details.",
+  "whatsapp": "*RBI: FEMA Export/Import of Goods & Services (Second Amendment) 2026*\n\n• Resident individual defined\n• EDF deemed submitted for service exports (individuals; others up to ₹10 lakh)\n• IDPMS entry for service imports only above ₹10 lakh (non-individual importers)\n• Effective October 01, 2026\n\nVerify with the RBI notification.",
+  "hashtags": [
+   "#RBI",
+   "#FEMA",
+   "#ForeignExchange",
+   "#ServiceExports",
+   "#EDF",
+   "#IDPMS",
+   "#Compliance"
+  ]
+ },
+ "id": "20261119-b70596baa26a",
+ "created_at": "2026-11-19T10:35:34+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+ "source_title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

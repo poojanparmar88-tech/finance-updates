@@ -1,0 +1,68 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI consolidates Cyber Resilience Master Directions for non-bank Payment System Operators",
+ "reference": "RBI/DPSS/2026-27/475 CO.DPSS.CSD.No.S825/01-01-078/2026-2027",
+ "issued_on": "2026-11-05",
+ "effective_from": "Large and Medium non-bank PSOs: on the day placed on RBI website; Small non-bank PSOs: 2028-04-01",
+ "format": "table",
+ "summary_points": [
+  "RBI has consolidated earlier cyber security directions into one Master Direction for authorised non-bank PSOs, issued under Sections 10(2) and 18 of the PSS Act, 2007.",
+  "It merges the 2019 cyber security controls for third party ATM Switch ASPs and the January 2020 system audit scope circular into the July 2024 Master Directions.",
+  "Covers governance, baseline security controls, digital payment security (mobile, card, PPI), system audit scope and ATM Switch ASP controls.",
+  "Existing card, PPI and mobile banking security instructions continue; this Master Direction prevails in case of discrepancy."
+ ],
+ "table": {
+  "columns": [
+   "PSO category",
+   "Entities (examples)",
+   "Effective date"
+  ],
+  "rows": [
+   [
+    "Large",
+    "CCIL, NPCI, NPCI Bharat Bill Pay, card networks, non-bank ATM networks, WLAOs, large PPI issuers, TReDS operators, BBPOUs, PAs",
+    "Day placed on RBI website"
+   ],
+   [
+    "Medium",
+    "Cross-border inbound MTSS operators, medium PPI issuers",
+    "Day placed on RBI website"
+   ],
+   [
+    "Small",
+    "Small PPI issuers, instant money transfer operators",
+    "April 1, 2028"
+   ],
+   [
+    "Category change",
+    "PPI issuer moving to a higher category",
+    "Within one year of new categorisation"
+   ]
+  ]
+ },
+ "who_is_affected": "All authorised non-bank Payment System Operators, including PPI issuers, payment aggregators, card networks and ATM operators, and their vendors and ATM Switch ASPs.",
+ "action_required": "Compliance and IT security teams should map current controls against the consolidated Master Direction, get the Board-approved policies in place and meet the applicable timeline for their PSO category.",
+ "social": {
+  "linkedin": "RBI has issued a consolidated Master Direction on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators (RBI/DPSS/2026-27/475, dated November 5, 2026).\n\nThe Direction brings the earlier cyber security controls for third party ATM Switch ASPs and the system audit scope circular into a single reference document, building on the July 2024 Master Directions.\n\nKey points:\n- Covers governance, baseline security controls, digital payment security for mobile, cards and PPIs, and system audit scope.\n- Board-level oversight, a Board-approved IS policy and a distinct Cyber Crisis Management Plan are required.\n- Large and Medium non-bank PSOs must comply from the date the Direction is placed on the RBI website; Small PSOs from April 1, 2028.\n- PSOs must also ensure adherence by unregulated ecosystem entities such as payment gateways and vendors, subject to mutual agreement.\n\nPSO compliance and risk teams should start a gap assessment now.\n\nPlease verify the details with the official RBI source before acting.",
+  "x": "RBI issues consolidated Master Directions on Cyber Resilience & Digital Payment Security for non-bank PSOs. Large/Medium PSOs: effective immediately; Small PSOs: Apr 1, 2028. Read the full update.",
+  "instagram": "🔐 RBI has consolidated its cyber security rules for non-bank payment operators into one Master Direction!\n\n✅ Covers governance, security controls, mobile, card & PPI safety\n✅ Merges ATM Switch ASP controls and system audit scope\n✅ Large & Medium PSOs: effective immediately\n✅ Small PSOs: from April 1, 2028\n\nIf you run a wallet, payment aggregator or ATM network, time for a gap check 📋\n\nAlways cross-check with the official RBI notification.",
+  "whatsapp": "*RBI: Cyber Resilience Master Directions for non-bank PSOs*\n\nCircular RBI/DPSS/2026-27/475 (Nov 5, 2026) consolidates earlier cyber security directions. Large & Medium PSOs: effective on website publication. Small PSOs: from Apr 1, 2028. Board-approved IS policy and CCMP needed.",
+  "hashtags": [
+   "#RBI",
+   "#CyberSecurity",
+   "#PaymentSystems",
+   "#PSO",
+   "#DigitalPayments",
+   "#Fintech",
+   "#Compliance"
+  ]
+ },
+ "id": "20261119-c7243a7bc8b9",
+ "created_at": "2026-11-19T10:35:06+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+ "source_title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

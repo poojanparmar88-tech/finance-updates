@@ -1,0 +1,69 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI to conduct ₹50,000 crore overnight VRRR auction on November 19, 2026",
+ "reference": "Press Release 2026-2027/1519",
+ "issued_on": "2026-11-18",
+ "effective_from": "2026-11-19",
+ "format": "table",
+ "summary_points": [
+  "RBI will conduct an overnight Variable Rate Reverse Repo (VRRR) auction under LAF on Thursday, November 19, 2026.",
+  "The decision follows a review of current and evolving liquidity conditions.",
+  "Operational guidelines in Press Release 2019-2020/1947 dated February 13, 2020 remain unchanged."
+ ],
+ "table": {
+  "columns": [
+   "Parameter",
+   "Details"
+  ],
+  "rows": [
+   [
+    "Auction date",
+    "November 19, 2026 (Thursday)"
+   ],
+   [
+    "Notified amount",
+    "₹50,000 crore"
+   ],
+   [
+    "Tenor",
+    "1 day"
+   ],
+   [
+    "Window timing",
+    "10:30 AM to 11:00 AM"
+   ],
+   [
+    "Date of reversal",
+    "November 20, 2026 (Friday)"
+   ],
+   [
+    "Operational guidelines",
+    "As per Press Release 2019-2020/1947 dated February 13, 2020"
+   ]
+  ]
+ },
+ "who_is_affected": "Banks and other LAF-eligible participants, and treasury teams tracking system liquidity and short-term rates.",
+ "action_required": "Eligible participants wishing to bid should do so within the 10:30-11:00 AM window on November 19, 2026, per the 2020 operational guidelines.",
+ "social": {
+  "linkedin": "RBI to conduct an overnight VRRR auction under LAF on November 19, 2026.\n\nOn a review of current and evolving liquidity conditions, the RBI has notified a Variable Rate Reverse Repo auction with the following details:\n\n• Notified amount: ₹50,000 crore\n• Tenor: 1 day\n• Window: 10:30 AM to 11:00 AM on Thursday, November 19, 2026\n• Reversal date: Friday, November 20, 2026\n\nThe operational guidelines issued in Press Release 2019-2020/1947 dated February 13, 2020 remain unchanged.\n\nFor treasury teams, banks and finance professionals, such operations are a useful signal of how the central bank is managing system liquidity in the short term.\n\nPlease verify the details with the official RBI press release (2026-2027/1519) before acting.",
+  "x": "RBI to hold an overnight VRRR auction on Nov 19, 2026: ₹50,000 crore, 1-day tenor, window 10:30-11:00 AM, reversal Nov 20. Guidelines unchanged. Read more on the RBI website.",
+  "instagram": "📢 RBI liquidity update!\n\nRBI will hold an overnight Variable Rate Reverse Repo (VRRR) auction on Nov 19, 2026 💰\n\n✅ Amount: ₹50,000 crore\n✅ Tenor: 1 day\n✅ Window: 10:30 AM to 11:00 AM\n✅ Reversal: Nov 20, 2026\n\nThe 2020 operational guidelines stay the same.\n\nFollow us for more regulatory updates! 🏦",
+  "whatsapp": "*RBI VRRR Auction – Nov 19, 2026*\n\nOvernight VRRR under LAF: ₹50,000 crore, 1-day tenor, window 10:30–11:00 AM, reversal on Nov 20, 2026. Operational guidelines of Feb 13, 2020 remain unchanged.\n\nSource: RBI Press Release 2026-2027/1519.",
+  "hashtags": [
+   "#RBI",
+   "#VRRR",
+   "#LAF",
+   "#Liquidity",
+   "#MonetaryPolicy",
+   "#Banking"
+  ]
+ },
+ "id": "20261119-4ed26faa2baa",
+ "created_at": "2026-11-19T10:36:02+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63997",
+ "source_title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on November 19, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

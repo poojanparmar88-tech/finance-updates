@@ -1,0 +1,76 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI consolidates Domestic Money Transfer rules into DMT Directions, 2026",
+ "reference": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027",
+ "issued_on": "November 11, 2026",
+ "effective_from": "Immediately (November 11, 2026)",
+ "format": "table",
+ "summary_points": [
+  "RBI has issued the Domestic Money Transfer Directions, 2026 under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.",
+  "The Directions consolidate existing DMT instructions and repeal the circulars of October 5, 2011 and July 24, 2024.",
+  "They are effective immediately and apply to banks and authorised payment system operators and participants; card-to-card transfers are excluded."
+ ],
+ "table": {
+  "columns": [
+   "Service",
+   "Limit",
+   "Key condition"
+  ],
+  "rows": [
+   [
+    "Cash Pay-out (cash to non-account holder)",
+    "₹10,000 per transaction; ₹25,000 monthly per beneficiary",
+    "Remitting bank records beneficiary name and address"
+   ],
+   [
+    "Cash Pay-in: walk-in at branch via NEFT",
+    "Up to ₹50,000",
+    "Remitter registered with verified mobile number and self-certified OVD"
+   ],
+   [
+    "Cash Pay-in: via BCs, ATMs etc.",
+    "₹5,000 per transaction; ₹25,000 monthly per remitter",
+    "Every transaction validated by Additional Factor of Authentication"
+   ],
+   [
+    "Safeguards",
+    "Not applicable",
+    "Velocity checks, customer alerts, investigation of unusual credit spurts, reporting of suspicious transactions"
+   ],
+   [
+    "Settlement and charges",
+    "Not applicable",
+    "Only RBI-approved payment systems; reasonable charges permitted"
+   ],
+   [
+    "Grievance redressal",
+    "Not applicable",
+    "Covered by the RB-Integrated Ombudsman Scheme, 2026"
+   ]
+  ]
+ },
+ "who_is_affected": "Scheduled commercial banks (including RRBs and co-operative banks), authorised payment system operators and participants, and Business Correspondents offering domestic money transfer services.",
+ "action_required": "Review DMT processes, limits, KYC and AFA checks, transaction message identifiers and monitoring systems against the new Directions, and note that earlier circulars stand repealed.",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (Domestic Money Transfer) Directions, 2026 on November 11, 2026, consolidating existing instructions on small-value cash-based remittances.\n\nKey points:\n- Effective immediately; issued under the Payment and Settlement Systems Act, 2007.\n- Cash Pay-out: ₹10,000 per transaction, ₹25,000 monthly ceiling per beneficiary.\n- Cash Pay-in: up to ₹50,000 via NEFT for walk-in customers at branches; ₹5,000 per transaction and ₹25,000 monthly per remitter through BCs/ATMs.\n- Remitters registered with verified mobile number and self-certified OVD; AFA required for each transaction.\n- Velocity checks, alerts and reporting of suspicious transactions are mandated.\n- Circulars of October 2011 and July 2024 on DMT are repealed.\n\nBanks, payment system operators and BCs should map their DMT processes to the new Directions.\n\nPlease verify the details with the official RBI source before acting.",
+  "x": "RBI issues Domestic Money Transfer Directions, 2026, consolidating DMT rules. Cash pay-out cap ₹10,000/txn; pay-in via BCs ₹5,000/txn; walk-in NEFT up to ₹50,000. Effective immediately. Read more.",
+  "instagram": "🏦 RBI's new Domestic Money Transfer Directions, 2026 are here!\n\nWhat's new:\n💸 Cash pay-out: ₹10,000 per transaction, ₹25,000 monthly per beneficiary\n📲 Walk-in NEFT remittance: up to ₹50,000\n🧾 Via BCs/ATMs: ₹5,000 per transaction, ₹25,000 monthly\n🔐 AFA needed for every transaction\n\nEffective immediately, and older DMT circulars are repealed. Banks and payment operators, time to review your processes! ✅",
+  "whatsapp": "*RBI: Domestic Money Transfer Directions, 2026* (11 Nov 2026)\n\nConsolidates DMT rules, effective immediately.\n• Cash pay-out: ₹10,000/txn, ₹25,000/month per beneficiary\n• Walk-in NEFT: up to ₹50,000\n• Via BCs/ATMs: ₹5,000/txn, ₹25,000/month\n• Circulars of 2011 and 2024 repealed",
+  "hashtags": [
+   "#RBI",
+   "#DomesticMoneyTransfer",
+   "#Banking",
+   "#PaymentSystems",
+   "#DPSS",
+   "#Compliance"
+  ]
+ },
+ "id": "20261119-3eb09aed1158",
+ "created_at": "2026-11-19T10:34:28+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+ "source_title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

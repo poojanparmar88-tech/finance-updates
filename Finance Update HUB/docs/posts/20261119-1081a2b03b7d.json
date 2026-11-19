@@ -1,0 +1,72 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI: UNSC Taliban Sanctions List amended for 5 entries; REs to act under UAPA s.51A",
+ "reference": "RBI/2026-27/303 DoR.AML.REC.255/14.06.001/2026-27",
+ "issued_on": "October 30, 2026",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "RBI circulated MEA's intimation of UNSC press release SC/16494 (October 29, 2026) amending 5 entries on the 1988 Taliban Sanctions List.",
+  "Regulated entities must ensure no accounts exist in names of listed persons, as per Section 51A of UAPA, 1967 and Chapter IX of the RBI KYC Directions, 2025.",
+  "REs must follow the UAPA Order dated February 02, 2021 (amended April 22, 2024); delisting requests go to Joint Secretary (CTCR), MHA."
+ ],
+ "table": {
+  "columns": [
+   "UNSC Ref",
+   "Individual",
+   "Designation under Taliban regime (1996-2001)"
+  ],
+  "rows": [
+   [
+    "TAi.007",
+    "Abdul Latif Mansur",
+    "Minister of Agriculture"
+   ],
+   [
+    "TAi.024",
+    "Abdul Ghani Baradar",
+    "Deputy Minister of Defence"
+   ],
+   [
+    "TAi.026",
+    "Amir Khan Motaqi",
+    "Minister of Education"
+   ],
+   [
+    "TAi.082",
+    "Abdul-Haq Wassiq",
+    "Deputy Minister of Security (Intelligence)"
+   ],
+   [
+    "TAi.093",
+    "Khairullah Khairkhwah",
+    "Minister of Internal Affairs"
+   ]
+  ]
+ },
+ "who_is_affected": "Commercial banks, SFBs, payment banks, co-operative banks, RRBs, LABs, NBFCs, ARCs and AIFIs, particularly their compliance and KYC/AML teams.",
+ "action_required": "Update sanction screening databases with the amended entries, screen existing accounts and follow the UAPA Order procedure for any match.",
+ "social": {
+  "linkedin": "RBI has issued circular RBI/2026-27/303 dated October 30, 2026 on implementation of Section 51A of the UAPA, 1967.\n\nThe circular relays the UNSC 1988 Committee's amendments to five entries on the Taliban Sanctions List (UNSC press release SC/16494 dated October 29, 2026), as informed by the MEA. The entries are TAi.007, TAi.024, TAi.026, TAi.082 and TAi.093.\n\nWhat regulated entities should note:\n- Ensure no account is held in the name of listed individuals or entities\n- Follow Chapter IX of the RBI KYC Directions, 2025\n- Follow the procedure in the UAPA Order dated February 02, 2021 (amended April 22, 2024)\n- Forward any delisting requests electronically to Joint Secretary (CTCR), MHA\n\nBanks, NBFCs, ARCs and AIFIs should refresh their sanctions screening lists promptly.\n\nPlease verify with the official RBI source before acting.",
+  "x": "RBI circular RBI/2026-27/303: UNSC amends 5 entries on Taliban Sanctions List. Banks, NBFCs, ARCs to update screening and comply with UAPA s.51A. Read more on the RBI website.",
+  "instagram": "🚨 RBI Update 🚨\n\nRBI has asked regulated entities to act on amendments to 5 entries on the UNSC Taliban Sanctions List.\n\n✅ Ensure no accounts in names of listed persons\n✅ Follow UAPA Section 51A procedure\n✅ Update your sanctions screening lists\n\nIf you work in banking or NBFC compliance, check Circular RBI/2026-27/303 dated Oct 30, 2026 today. 📄\n\nAlways confirm on the official RBI website.",
+  "whatsapp": "*RBI Circular RBI/2026-27/303 (Oct 30, 2026)*\nUNSC amended 5 entries on the Taliban Sanctions List. Banks, NBFCs, ARCs and AIFIs must update screening and comply with UAPA Sec 51A and the UAPA Order. Verify on rbi.org.in.",
+  "hashtags": [
+   "#RBI",
+   "#UAPA",
+   "#AML",
+   "#KYC",
+   "#Compliance",
+   "#Banking",
+   "#NBFC"
+  ]
+ },
+ "id": "20261119-1081a2b03b7d",
+ "created_at": "2026-11-19T10:35:53+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+ "source_title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
