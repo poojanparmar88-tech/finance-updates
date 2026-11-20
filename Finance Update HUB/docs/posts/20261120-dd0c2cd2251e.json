@@ -1,0 +1,79 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Circular",
+ "headline": "RBI delegates FEMA compounding for ODI, borrowing/lending and guarantees to Regional Offices",
+ "reference": "RBI/FED/2026-27/298, A.P. (DIR Series) Circular No. 28/2026-27",
+ "issued_on": "October 23, 2026",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "Powers to compound contraventions on Overseas Investment, Borrowing/Lending and Guarantees are delegated to select RBI Regional Offices, not only Central Office.",
+  "ODI compounding applications go to the Regional Office based on the UIN prefix of the foreign entity, JV or WOS.",
+  "Borrowing, lending and guarantee cases go to the Regional Office with jurisdiction over the registered office or domicile of the applicant.",
+  "Cases with no UIN, or involving multiple categories under different rules, go to CEFA, Foreign Exchange Department, Central Office, Mumbai."
+ ],
+ "table": {
+  "columns": [
+   "Transaction / case",
+   "Where to apply"
+  ],
+  "rows": [
+   [
+    "ODI: UIN prefix AH",
+    "Ahmedabad"
+   ],
+   [
+    "ODI: UIN prefix BG",
+    "Bengaluru"
+   ],
+   [
+    "ODI: UIN prefix BL, BY or PJ",
+    "Mumbai"
+   ],
+   [
+    "ODI: UIN prefix BN, CA, GA or GH",
+    "Kolkata"
+   ],
+   [
+    "ODI: UIN prefix CG, JM, JR, KA, ND, PT or WR",
+    "New Delhi"
+   ],
+   [
+    "ODI: UIN prefix HY",
+    "Hyderabad"
+   ],
+   [
+    "ODI: UIN prefix KO or MA",
+    "Chennai"
+   ],
+   [
+    "No UIN, or multiple categories; Borrowing/Lending/Guarantees",
+    "CEFA, Central Office (no UIN or multiple); jurisdictional Regional Office (borrowing/lending/guarantees)"
+   ]
+  ]
+ },
+ "who_is_affected": "AD Category-I banks, other Authorised Persons and Indian companies or entities seeking to compound FEMA contraventions on overseas investment, borrowing, lending or guarantees.",
+ "action_required": "Route compounding applications to the correct Regional Office or CEFA as per the circular, and bring its contents to the notice of constituents.",
+ "social": {
+  "linkedin": "RBI has delegated powers to compound certain FEMA contraventions to its Regional Offices.\n\nVide A.P. (DIR Series) Circular No. 28/2026-27 dated October 23, 2026, applications relating to Overseas Investment, Borrowing and Lending, and Guarantees, which were earlier received at the Central Office, can now be filed at select Regional Offices.\n\nKey points:\n- Overseas Investment: the Regional Office is determined by the UIN prefix of the foreign entity, JV or WOS (Ahmedabad, Bengaluru, Mumbai, Kolkata, New Delhi, Hyderabad, Chennai).\n- Borrowing, Lending and Guarantees: apply to the Regional Office with jurisdiction over the registered office or domicile of the applicant.\n- No UIN allotted, or multiple categories of contraventions under different rules: apply to CEFA at the Central Office, Mumbai.\n\nThe Master Directions on Compounding of Contraventions under FEMA will be updated accordingly.\n\nCompanies and AD banks should review pending and planned compounding matters and file at the right office.\n\nPlease verify the details with the official RBI circular before acting.",
+  "x": "RBI delegates FEMA compounding for overseas investment, borrowing/lending and guarantees to Regional Offices. ODI cases routed by UIN prefix; no-UIN and multi-category cases go to CEFA. Circular 28/2026-27. Read more.",
+  "instagram": "📢 RBI update for FEMA compliance!\n\nCompounding of certain FEMA contraventions is now delegated to select RBI Regional Offices. 🏦\n\n✅ Overseas Investment: office depends on your UIN prefix\n✅ Borrowing, Lending & Guarantees: office with jurisdiction over your registered office\n✅ No UIN or multiple categories: CEFA, Central Office, Mumbai\n\nIf you are planning a compounding application, check where to file first. 📝\n\nSource: A.P. (DIR Series) Circular No. 28/2026-27 dated October 23, 2026.",
+  "whatsapp": "*RBI: FEMA compounding delegated to Regional Offices*\n\nCircular 28/2026-27 (Oct 23, 2026): compounding for Overseas Investment, Borrowing/Lending and Guarantees can be filed at select Regional Offices.\n\n• ODI: by UIN prefix\n• Borrowing/Lending/Guarantees: by registered office jurisdiction\n• No UIN or multiple categories: CEFA, Mumbai",
+  "hashtags": [
+   "#RBI",
+   "#FEMA",
+   "#Compounding",
+   "#OverseasInvestment",
+   "#ForeignExchange",
+   "#AuthorisedDealer",
+   "#Compliance"
+  ]
+ },
+ "id": "20261120-dd0c2cd2251e",
+ "created_at": "2026-11-20T10:15:01+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
+ "source_title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

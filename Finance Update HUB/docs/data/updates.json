@@ -1,5 +1,65 @@
 [
  {
+  "id": "20261120-609d9636c60c",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI amends operational risk capital norms for commercial banks, effective April 1, 2027",
+  "reference": "RBI/2026-27/299 DOR.ORG.REC.252/21.06.050/2026-27",
+  "issued_on": "October 23, 2026",
+  "created_at": "2026-11-20T10:15:56+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261120-c68b22bd22c5",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Orissa HC sets aside Sales Tax Commissioner's order passed ignoring adjournment plea",
+  "reference": "M/s. SMV Beverages Pvt. Ltd. v. State of Odisha, Orissa High Court, W.P.(C) Nos. 16677, 16800 & 17164 of 2026, order dated 18.11.2026",
+  "issued_on": "2026-11-18",
+  "created_at": "2026-11-20T10:15:46+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261120-04c9ab30a96d",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Telangana HC: specific performance refused where sale was contingent on pending excise case",
+  "reference": "M/s Intercorp Engineers v. M/s Kumar Power Products Pvt Ltd & Anr., Appeal Suit No. 117 of 2012, Telangana High Court, 17 November 2026",
+  "issued_on": "17-11-2026",
+  "created_at": "2026-11-20T10:15:34+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261120-cb6992c2d1df",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Delhi HC: Vacancy allowance u/s 23(1)(c) available for units let earlier but vacant in year",
+  "reference": "PCIT-3 vs DLF Ltd., ITA 126/2019, Delhi High Court, decided 18 November 2026 (AY 2007-08)",
+  "issued_on": "2026-11-18",
+  "created_at": "2026-11-20T10:15:18+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261120-dd0c2cd2251e",
+  "regulator": "RBI",
+  "category": "Circular",
+  "headline": "RBI delegates FEMA compounding for ODI, borrowing/lending and guarantees to Regional Offices",
+  "reference": "RBI/FED/2026-27/298, A.P. (DIR Series) Circular No. 28/2026-27",
+  "issued_on": "October 23, 2026",
+  "created_at": "2026-11-20T10:15:01+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261119-8e15015a6706",
   "regulator": "RBI",
   "category": "Circular",

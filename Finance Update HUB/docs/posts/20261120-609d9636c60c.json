@@ -1,0 +1,43 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI amends operational risk capital norms for commercial banks, effective April 1, 2027",
+ "reference": "RBI/2026-27/299 DOR.ORG.REC.252/21.06.050/2026-27",
+ "issued_on": "October 23, 2026",
+ "effective_from": "April 1, 2027",
+ "format": "summary",
+ "summary_points": [
+  "RBI issues Second Amendment Directions, 2026 to Chapter IV (Minimum Capital Requirements for Operational Risk) of the 2025 Forthcoming Instructions Directions.",
+  "Para 29 and Table 8 on Business Indicator (BI) constituents revised, adding sub-items such as rental income from operating leases; mapping to schedules to follow.",
+  "Interest earning assets to include interest rate derivative assets at positive fair value, not notional value.",
+  "Loss Component uses 10 years of loss data; banks with five or more years of high-quality data may use it when first subject to ILM.",
+  "New explanation added on measuring operational loss for damaged or destroyed assets (no repair, full repair, partial repair)."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Commercial banks computing operational risk capital charge (ORC), along with their risk, finance and regulatory reporting teams.",
+ "action_required": "Banks should align BI classification, loss data practices and ORC computation with the amended Directions before April 1, 2027.",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 (RBI/2026-27/299, dated October 23, 2026), amending the operational risk capital framework.\n\nKey changes, effective April 1, 2027:\n\n• Para 29 and Table 8 on Business Indicator constituents revised, including added sub-items such as rental income from operating leases.\n• Interest rate derivative assets affecting interest income to be included in interest earning assets at positive fair value, not notional value.\n• Loss Component to be based on 10 years of high-quality loss data; banks with five or more years may use that data when first subject to ILM.\n• New explanation on how to measure operational loss when a bank's asset is damaged or destroyed.\n\nBanks should review their BI mapping, loss data and ORC computation processes ahead of the effective date.\n\nPlease verify with the official RBI source before acting.",
+  "x": "RBI amends operational risk capital norms for commercial banks (RBI/2026-27/299). Changes to BI table, loss data and asset-loss measurement, effective April 1, 2027. Read more.",
+  "instagram": "🏦 RBI update for banks!\n\nRBI has amended its operational risk capital rules for commercial banks.\n\n✅ Business Indicator table revised\n✅ Derivative assets counted at positive fair value\n✅ Loss data: 10 years, or 5+ years for new ILM banks\n✅ New rules for measuring asset damage losses\n\n📅 Effective April 1, 2027\n\nBanks, start preparing now! 📊",
+  "whatsapp": "*RBI: Operational Risk Capital Amendment*\n\nRBI/2026-27/299 dated October 23, 2026 amends Chapter IV of the Commercial Banks Forthcoming Instructions Directions, 2025.\n\n• BI table revised\n• Loss data norms clarified\n• Asset damage loss measurement added\n\nEffective: April 1, 2027",
+  "hashtags": [
+   "#RBI",
+   "#Banking",
+   "#OperationalRisk",
+   "#CapitalAdequacy",
+   "#BankingRegulation",
+   "#Compliance"
+  ]
+ },
+ "id": "20261120-609d9636c60c",
+ "created_at": "2026-11-20T10:15:56+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+ "source_title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
