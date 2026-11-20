@@ -1,0 +1,66 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI to hold ₹50,000 crore 4-day VRR auction under LAF on November 23, 2026",
+ "reference": "Press Release: 2026-2027/1538",
+ "issued_on": "2026-11-20",
+ "effective_from": "2026-11-23",
+ "format": "table",
+ "summary_points": [
+  "RBI will conduct a Variable Rate Repo (VRR) auction under LAF on Monday, November 23, 2026.",
+  "The decision follows a review of current and evolving near-term liquidity conditions.",
+  "Operational guidelines remain as per Press Release 2021-2022/1572 dated January 20, 2022."
+ ],
+ "table": {
+  "columns": [
+   "Parameter",
+   "Details"
+  ],
+  "rows": [
+   [
+    "Notified amount",
+    "₹50,000 crore"
+   ],
+   [
+    "Tenor",
+    "4 days"
+   ],
+   [
+    "Auction date",
+    "November 23, 2026 (Monday)"
+   ],
+   [
+    "Window timing",
+    "9:30 AM to 10:00 AM"
+   ],
+   [
+    "Date of reversal",
+    "November 27, 2026 (Friday)"
+   ]
+  ]
+ },
+ "who_is_affected": "Banks and other LAF-eligible participants, along with treasury and finance teams tracking short-term liquidity and money market rates.",
+ "action_required": "Eligible participants should bid within the 9:30-10:00 AM window on November 23, 2026, following the January 2022 operational guidelines; others may track liquidity signals.",
+ "social": {
+  "linkedin": "RBI to conduct a 4-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026.\n\nKey details:\n- Notified amount: ₹50,000 crore\n- Tenor: 4 days\n- Window: 9:30 AM to 10:00 AM\n- Reversal date: November 27, 2026 (Friday)\n\nThe RBI said the auction follows a review of current and evolving near-term liquidity conditions. Operational guidelines remain the same as those in Press Release 2021-2022/1572 dated January 20, 2022.\n\nWhy it matters: Such operations are a signal of how the central bank is managing system liquidity, and they can influence short-term money market rates and bank funding costs. Treasury teams and finance professionals may want to keep an eye on the auction outcome.\n\nPlease verify the details with the official RBI press release (2026-2027/1538) before acting.",
+  "x": "RBI will hold a ₹50,000 crore 4-day Variable Rate Repo (VRR) auction under LAF on Nov 23, 2026, 9:30-10:00 AM. Reversal on Nov 27. Read more in our update.",
+  "instagram": "🏦 RBI liquidity update!\n\nRBI will conduct a 4-day Variable Rate Repo (VRR) auction under LAF on Monday, Nov 23, 2026.\n\n💰 Amount: ₹50,000 crore\n⏱️ Window: 9:30 AM to 10:00 AM\n📅 Reversal: Nov 27, 2026 (Friday)\n\nThe move follows a review of near-term liquidity conditions. Guidelines stay the same as the January 2022 press release.\n\nFollow for more regulatory updates! 📌",
+  "whatsapp": "*RBI 4-day VRR auction*\n\nRBI will conduct a Variable Rate Repo auction under LAF on *Nov 23, 2026* (9:30-10:00 AM).\n• Amount: ₹50,000 crore\n• Tenor: 4 days\n• Reversal: Nov 27, 2026\n\nGuidelines as per PR 2021-2022/1572.",
+  "hashtags": [
+   "#RBI",
+   "#VRR",
+   "#LAF",
+   "#Liquidity",
+   "#MonetaryPolicy",
+   "#Banking",
+   "#MoneyMarket"
+  ]
+ },
+ "id": "20261120-666e60687967",
+ "created_at": "2026-11-20T18:42:50+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
+ "source_title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

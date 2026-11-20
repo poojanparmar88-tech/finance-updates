@@ -1,0 +1,44 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI imposes ₹7.50 lakh penalty on Fusion Finance for KYC, Internal Ombudsman lapses",
+ "reference": "RBI Press Release 2026-2027/1537",
+ "issued_on": "Nov 20, 2026",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "RBI imposed a ₹7.50 lakh penalty on Fusion Finance Limited by order dated November 17, 2026.",
+  "Penalty is under section 58G(1)(b) read with section 58B(5)(aa) of the RBI Act, 1934.",
+  "Charges sustained: PAN/equivalent e-document/Form 60 not obtained for account-based relationships.",
+  "Also sustained: rejected complaints not escalated to the Internal Ombudsman within the prescribed time.",
+  "RBI says action is on compliance deficiencies, not on validity of customer transactions, and is without prejudice to other action."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "NBFCs and other regulated entities subject to RBI KYC and Internal Ombudsman directions, along with their compliance teams.",
+ "action_required": "Review KYC onboarding checks (PAN/Form 60) and complaint escalation timelines to the Internal Ombudsman against RBI directions.",
+ "social": {
+  "linkedin": "RBI has imposed a monetary penalty of ₹7.50 lakh on Fusion Finance Limited, by an order dated November 17, 2026.\n\nThe penalty is under section 58G(1)(b) read with section 58B(5)(aa) of the RBI Act, 1934, and follows a statutory inspection with reference to the company's financial position as on March 31, 2026.\n\nTwo charges were sustained after the show-cause notice, reply and personal hearing:\n- Failure to obtain PAN or equivalent e-document or Form 60 from customers while establishing account-based relationships.\n- Failure to escalate partly or wholly rejected complaints to the Internal Ombudsman for a final decision within the prescribed time.\n\nRBI has clarified that the action is based on regulatory compliance deficiencies and does not pronounce on the validity of any transaction or agreement with customers. It is also without prejudice to any other action.\n\nTakeaway for regulated entities: revisit KYC documentation at onboarding and the complaint escalation workflow under the Internal Ombudsman scheme.\n\nPlease verify with the official RBI press release (2026-2027/1537) before acting.",
+  "x": "RBI penalises Fusion Finance ₹7.50 lakh for KYC (PAN/Form 60) and Internal Ombudsman escalation lapses. Order dated Nov 17, 2026. Read more in the RBI press release 2026-2027/1537.",
+  "instagram": "🚨 RBI penalty alert!\n\nRBI has fined Fusion Finance Limited ₹7.50 lakh 💰\n\nWhy?\n📌 PAN / Form 60 not obtained while opening account-based relationships\n📌 Rejected complaints not escalated to the Internal Ombudsman on time\n\nOrder dated Nov 17, 2026, under the RBI Act, 1934.\n\nRBI clarifies this is about compliance gaps, not the validity of customer transactions.\n\nLenders, time to re-check your KYC and grievance processes ✅",
+  "whatsapp": "*RBI penalty: Fusion Finance Limited*\n\nRBI imposed ₹7.50 lakh penalty (order dated Nov 17, 2026) for:\n• Not obtaining PAN/e-document/Form 60 under KYC\n• Not escalating rejected complaints to Internal Ombudsman in time\n\nRef: Press Release 2026-2027/1537",
+  "hashtags": [
+   "#RBI",
+   "#KYC",
+   "#InternalOmbudsman",
+   "#NBFC",
+   "#MonetaryPenalty",
+   "#Compliance",
+   "#BankingRegulation"
+  ]
+ },
+ "id": "20261120-5d498f726266",
+ "created_at": "2026-11-20T18:43:03+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64015",
+ "source_title": "RBI imposes monetary penalty on Fusion Finance Limited",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

@@ -1,5 +1,77 @@
 [
  {
+  "id": "20261120-0e8a130f5ccc",
+  "regulator": "MCA",
+  "category": "Advisory",
+  "headline": "Govt warns of WhatsApp 'boss scam' targeting corporates and finance professionals",
+  "reference": "",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-20T18:43:20+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261120-5d498f726266",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI imposes ₹7.50 lakh penalty on Fusion Finance for KYC, Internal Ombudsman lapses",
+  "reference": "RBI Press Release 2026-2027/1537",
+  "issued_on": "Nov 20, 2026",
+  "created_at": "2026-11-20T18:43:03+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261120-666e60687967",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI to hold ₹50,000 crore 4-day VRR auction under LAF on November 23, 2026",
+  "reference": "Press Release: 2026-2027/1538",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-20T18:42:50+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261120-206a3620abd8",
+  "regulator": "MCA",
+  "category": "Press Release",
+  "headline": "MCA reportedly proposes CSR framework overhaul: wider Schedule VII, stricter NGO norms",
+  "reference": "",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-20T18:42:38+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261120-37b8948cdf2c",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI: ₹10,800 crore State Government Securities switch auction on 26 Nov 2026",
+  "reference": "Press Release: 2026-2027/1539",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-20T18:42:29+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261120-2ecaba981e39",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI amends leverage ratio norms for banks to align with Basel 2017 standard",
+  "reference": "RBI/2026-27/297 DOR.CAP.REC.251/21-02-002/2026-27",
+  "issued_on": "23 October 2026",
+  "created_at": "2026-11-20T18:42:17+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261120-609d9636c60c",
   "regulator": "RBI",
   "category": "Notification",

@@ -1,0 +1,77 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI: ₹10,800 crore State Government Securities switch auction on 26 Nov 2026",
+ "reference": "Press Release: 2026-2027/1539",
+ "issued_on": "2026-11-20",
+ "effective_from": "2026-11-26",
+ "format": "table",
+ "summary_points": [
+  "Five States (MP, Punjab, Rajasthan, Tamil Nadu, UP) will switch SDLs for longer-dated SGS via auction for an aggregate ₹10,800 crore (FV).",
+  "Bids on e-Kuber on 26 Nov 2026, 10:30 AM to 11:30 AM; multiple-price auction; results same day; settlement on 27 Nov 2026 (T+1).",
+  "Source security price must equal the previous working day's FBIL closing price; minimum bid ₹10,000 and multiples thereof."
+ ],
+ "table": {
+  "columns": [
+   "State",
+   "Source securities (FV ₹ crore)",
+   "Destination securities"
+  ],
+  "rows": [
+   [
+    "Madhya Pradesh",
+    "7.55% SDL 2027 (1,000); 8.05% SDL 2028 (1,000)",
+    "7.91% SGS 2036; 7.61% SGS 2044"
+   ],
+   [
+    "Punjab",
+    "7.63% SDL 2027 (800); 7.02% SDL 2028 (1,000)",
+    "7.65% SGS 2043; 7.75% SGS 2035"
+   ],
+   [
+    "Rajasthan",
+    "7.45% SDL 2027 (1,000); 8.07% SDL 2029 (1,000)",
+    "7.64% SGS 2036; 7.68% SGS 2044"
+   ],
+   [
+    "Tamil Nadu",
+    "7.65% SDL 2027 (1,000); 8.08% SDL 2028 (2,000)",
+    "7.80% SGS 2041; 7.39% SGS 2034"
+   ],
+   [
+    "Uttar Pradesh",
+    "7.67% SDL 2027 (1,000); 7.47% SDL 2027 (1,000)",
+    "7.76% SGS 2041; 7.72% SGS 2036"
+   ],
+   [
+    "Total",
+    "10,800",
+    ""
+   ]
+  ]
+ },
+ "who_is_affected": "Banks, primary dealers and other market participants holding the listed State Development Loans eligible to bid on e-Kuber.",
+ "action_required": "Eligible participants should place bids on e-Kuber between 10:30 AM and 11:30 AM on 26 November 2026, following the operational guidelines in the Annex.",
+ "social": {
+  "linkedin": "RBI has announced a conversion/switch auction of State Government Securities for an aggregate ₹10,800 crore (face value), involving Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu and Uttar Pradesh.\n\nKey details:\n- Auction date: 26 November 2026, bidding on e-Kuber from 10:30 AM to 11:30 AM\n- Format: multiple-price auction; results announced the same day\n- Settlement: 27 November 2026 (T+1)\n- Source security price must match the previous working day's FBIL closing price\n- Minimum bid ₹10,000 and in multiples of ₹10,000\n\nStates may accept offers for less than the notified amount or reject any or all offers. Though broadly cash neutral, there is fund settlement for net accrued interest and rounding-off of destination security face value.\n\nTreasury teams and investors in SDLs should review the security-wise details and the Annex on operational guidelines.\n\nPlease verify with the official RBI press release (2026-2027/1539) before acting.",
+  "x": "RBI announces switch auction of State Government Securities worth ₹10,800 crore on 26 Nov 2026 for MP, Punjab, Rajasthan, TN and UP. Bidding on e-Kuber, settlement 27 Nov. Read more.",
+  "instagram": "📢 RBI switch auction alert!\n\nFive States - Madhya Pradesh, Punjab, Rajasthan, Tamil Nadu & Uttar Pradesh - will switch their SDLs for longer-dated SGS worth ₹10,800 crore. 💰\n\n🗓 Auction: 26 Nov 2026\n⏰ Bidding: 10:30-11:30 AM on e-Kuber\n✅ Settlement: 27 Nov 2026\n\nMinimum bid: ₹10,000 and multiples thereof. Source price = previous day's FBIL closing price.\n\nCheck the official RBI release for full details! 📑",
+  "whatsapp": "*RBI: Switch of State Govt Securities*\nAuction on 26 Nov 2026 for ₹10,800 crore (FV) - MP, Punjab, Rajasthan, TN, UP.\nBids on e-Kuber 10:30-11:30 AM; settlement 27 Nov 2026. Min bid ₹10,000.\nSee RBI Press Release 2026-2027/1539.",
+  "hashtags": [
+   "#RBI",
+   "#StateGovernmentSecurities",
+   "#SDL",
+   "#GovernmentSecurities",
+   "#DebtMarket",
+   "#Treasury",
+   "#BondSwitch"
+  ]
+ },
+ "id": "20261120-37b8948cdf2c",
+ "created_at": "2026-11-20T18:42:29+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64017",
+ "source_title": "Conversion/Switch of State Government Securities",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

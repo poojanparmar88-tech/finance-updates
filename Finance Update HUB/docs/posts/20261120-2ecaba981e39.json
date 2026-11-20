@@ -1,0 +1,78 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI amends leverage ratio norms for banks to align with Basel 2017 standard",
+ "reference": "RBI/2026-27/297 DOR.CAP.REC.251/21-02-002/2026-27",
+ "issued_on": "23 October 2026",
+ "effective_from": "1 April 2027",
+ "format": "table",
+ "summary_points": [
+  "RBI issues the Eleventh Amendment Directions to align the leverage ratio framework with the Basel Committee's 2017 leverage ratio standard.",
+  "Paragraphs 262, 263(1), 265, 266 and 270 are substituted, paragraph 271 is deleted, and paragraph 4 of Annex III (Pillar 3) is replaced.",
+  "Banks must disclose the leverage ratio quarterly on standalone and consolidated bases, report it to RBI, and use Templates LR1 and LR2."
+ ],
+ "table": {
+  "columns": [
+   "Item",
+   "Revised requirement"
+  ],
+  "rows": [
+   [
+    "Minimum leverage ratio (D-SIB)",
+    "4 per cent"
+   ],
+   [
+    "Minimum leverage ratio (other banks)",
+    "3.5 per cent"
+   ],
+   [
+    "G-SIB branch in India",
+    "3.5 per cent plus applicable G-SIB leverage ratio buffer"
+   ],
+   [
+    "Calculation frequency",
+    "Quarter-end; more frequent averaging only with RBI approval, applied consistently"
+   ],
+   [
+    "Compliance",
+    "Minimum to be met at all times"
+   ],
+   [
+    "Disclosure and reporting (para 270)",
+    "Quarterly public disclosure and reporting to RBI (DoS); Templates LR1 and LR2"
+   ],
+   [
+    "Para 271",
+    "Deleted"
+   ],
+   [
+    "Effective date",
+    "1 April 2027"
+   ]
+  ]
+ },
+ "who_is_affected": "Commercial banks, including D-SIBs and branches of G-SIBs in India, and their finance, treasury and regulatory reporting teams.",
+ "action_required": "Banks should review leverage ratio exposure measure computations, systems and Pillar 3 disclosures (Templates LR1 and LR2) to comply before 1 April 2027.",
+ "social": {
+  "linkedin": "RBI has issued the Eleventh Amendment Directions, 2026 to its Prudential Norms on Capital Adequacy Directions, aligning the leverage ratio framework with the Basel Committee's 2017 standard.\n\nKey points:\n\n- Minimum leverage ratio: 4 per cent for D-SIBs and 3.5 per cent for other banks.\n- G-SIB branches in India must maintain 3.5 per cent plus the applicable G-SIB leverage ratio buffer, with capital distribution constraints if the buffer is not met.\n- Capital and exposure measures are to be calculated on a quarter-end basis; more frequent averaging needs RBI approval.\n- Quarterly public disclosure (standalone and consolidated), reporting to RBI, and Templates LR1 and LR2 are required.\n- Paragraph 271 is deleted, and the exposure measure provisions (paras 265 and 266) are substituted.\n\nThe amendments take effect from 1 April 2027 (Ref: RBI/2026-27/297, dated 23 October 2026).\n\nBanks and their advisers should begin gap assessments of exposure measure computation and disclosures now.\n\nPlease verify the details with the official RBI source before acting.",
+  "x": "RBI amends leverage ratio norms (Eleventh Amendment Directions, 2026): 4% min for D-SIBs, 3.5% for other banks, revised exposure measure and LR1/LR2 disclosures. Effective 1 April 2027. Read more.",
+  "instagram": "🏦 RBI update for banking professionals!\n\nRBI has amended its leverage ratio norms to align with the Basel 2017 standard.\n\n📌 Minimum: 4% for D-SIBs, 3.5% for other banks\n📌 G-SIB branches: 3.5% plus buffer\n📌 Quarterly disclosure and reporting to RBI\n📌 Templates LR1 and LR2\n\n🗓️ Effective 1 April 2027\n\nBanks, time to review your systems! ✅\n\nAlways check the official RBI notification for details.",
+  "whatsapp": "*RBI: Leverage Ratio Amendment Directions, 2026*\n\nAligned with Basel 2017 standard. Minimum: *4%* for D-SIBs, *3.5%* for other banks. Quarterly disclosure and RBI reporting; Templates LR1 and LR2. Para 271 deleted.\n\nEffective *1 April 2027*. Ref: RBI/2026-27/297. Please verify with the RBI website.",
+  "hashtags": [
+   "#RBI",
+   "#Banking",
+   "#Basel3",
+   "#LeverageRatio",
+   "#CapitalAdequacy",
+   "#Compliance",
+   "#DSIB"
+  ]
+ },
+ "id": "20261120-2ecaba981e39",
+ "created_at": "2026-11-20T18:42:17+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
+ "source_title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
