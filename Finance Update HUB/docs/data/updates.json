@@ -1,5 +1,53 @@
 [
  {
+  "id": "20261121-ec810b6aeed2",
+  "regulator": "MCA",
+  "category": "Other",
+  "headline": "MCA reportedly proposes NFRA recruitment changes; deputation tenure may rise to 7 years",
+  "reference": "",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-21T17:42:37+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261121-eab6c83c7049",
+  "regulator": "MCA",
+  "category": "Other",
+  "headline": "MCA draft reportedly makes CSR impact assessment voluntary for ₹10 crore+ firms",
+  "reference": "",
+  "issued_on": "2026-11-21",
+  "created_at": "2026-11-21T17:42:26+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261121-d6ae653e53b6",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI to conduct second 3-day VRR auction of ₹25,000 crore on November 20, 2026",
+  "reference": "Press Release 2026-2027/1530",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-21T17:42:18+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261121-8cf6804233e6",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI issues Second Amendment to FEMA Export and Import of Goods and Services Regulations, 2026",
+  "reference": "RBI Press Release 2026-2027/1531",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-21T17:42:04+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261121-de1a8efe4e8b",
   "regulator": "High Court",
   "category": "Judgment",
