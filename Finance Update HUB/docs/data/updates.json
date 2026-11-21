@@ -1,5 +1,29 @@
 [
  {
+  "id": "20261121-de1a8efe4e8b",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Madras HC declines to stop DRI action on turbine wheel classification dispute",
+  "reference": "M/s. Turbo Energy Pvt. Ltd. vs The Chairman, CBIC & Ors., W.P.Nos.39324 and 39329 of 2026, Madras High Court, 19.11.2026 (2026:MHC:4652)",
+  "issued_on": "2026-11-19",
+  "created_at": "2026-11-21T10:00:56+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261121-d50c5c90227a",
+  "regulator": "MCA",
+  "category": "Other",
+  "headline": "MCA draft proposes CSR agency registration cancellation and three-year bar: report",
+  "reference": "",
+  "issued_on": "2026-11-21",
+  "created_at": "2026-11-21T10:00:28+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
   "id": "20261120-0e8a130f5ccc",
   "regulator": "MCA",
   "category": "Advisory",
