@@ -1,0 +1,73 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI releases 2026 D-SIB list: SBI, HDFC Bank, ICICI Bank retain buckets",
+ "reference": "Press Release: 2026-2027/1547",
+ "issued_on": "Nov 23, 2026",
+ "effective_from": "",
+ "format": "table",
+ "summary_points": [
+  "RBI continues to identify SBI, HDFC Bank and ICICI Bank as D-SIBs, with the same bucketing structure as the 2025 list.",
+  "The additional CET1 requirement is over and above the capital conservation buffer.",
+  "The update is based on data collected from banks as on March 31, 2026."
+ ],
+ "table": {
+  "columns": [
+   "Bucket",
+   "Bank",
+   "Additional CET1 (% of RWAs)"
+  ],
+  "rows": [
+   [
+    "5",
+    "-",
+    "1%"
+   ],
+   [
+    "4",
+    "State Bank of India",
+    "0.80%"
+   ],
+   [
+    "3",
+    "-",
+    "0.60%"
+   ],
+   [
+    "2",
+    "HDFC Bank",
+    "0.40%"
+   ],
+   [
+    "1",
+    "ICICI Bank",
+    "0.20%"
+   ]
+  ]
+ },
+ "who_is_affected": "SBI, HDFC Bank and ICICI Bank, along with foreign banks in India that are G-SIBs, which must maintain a proportionate CET1 surcharge.",
+ "action_required": "The designated D-SIBs should ensure their additional CET1 holdings match their bucket requirement; others should note the unchanged list for analysis and disclosures.",
+ "social": {
+  "linkedin": "RBI has released its 2026 list of Domestic Systemically Important Banks (D-SIBs).\n\nState Bank of India, HDFC Bank and ICICI Bank continue to be identified as D-SIBs, with the same bucketing structure as in the 2025 list.\n\nAdditional CET1 requirement (as % of RWAs):\n- Bucket 4: State Bank of India - 0.80%\n- Bucket 2: HDFC Bank - 0.40%\n- Bucket 1: ICICI Bank - 0.20%\n- Buckets 5 and 3 remain vacant (1% and 0.60% respectively)\n\nThis requirement is in addition to the capital conservation buffer. The assessment is based on data as on March 31, 2026, under the D-SIB framework issued on July 22, 2014 and updated on December 28, 2023.\n\nForeign banks in India that are G-SIBs must maintain an additional CET1 surcharge proportionate to their India RWAs.\n\nPlease verify the details with the official RBI press release (2026-2027/1547).",
+  "x": "RBI's 2026 D-SIB list: SBI (0.80%), HDFC Bank (0.40%) and ICICI Bank (0.20%) retain their buckets, with the same structure as 2025. Additional CET1 is over and above the capital conservation buffer. Read more.",
+  "instagram": "🏦 RBI's 2026 D-SIB list is out!\n\nNo change from 2025 👇\n📌 SBI - Bucket 4 - 0.80%\n📌 HDFC Bank - Bucket 2 - 0.40%\n📌 ICICI Bank - Bucket 1 - 0.20%\n\nThe additional CET1 requirement comes on top of the capital conservation buffer. Data is as on March 31, 2026 📊\n\nFollow for more regulatory updates!",
+  "whatsapp": "*RBI 2026 D-SIB list*\n\nSBI, HDFC Bank and ICICI Bank continue as D-SIBs, same buckets as 2025.\n• SBI: Bucket 4, 0.80%\n• HDFC Bank: Bucket 2, 0.40%\n• ICICI Bank: Bucket 1, 0.20%\n\nAdditional CET1 is over and above the capital conservation buffer. Based on data as on March 31, 2026.",
+  "hashtags": [
+   "#RBI",
+   "#DSIB",
+   "#Banking",
+   "#CET1",
+   "#SBI",
+   "#HDFCBank",
+   "#ICICIBank",
+   "#BankingRegulation"
+  ]
+ },
+ "id": "20261124-53ffeab2acc7",
+ "created_at": "2026-11-24T23:35:20+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+ "source_title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
