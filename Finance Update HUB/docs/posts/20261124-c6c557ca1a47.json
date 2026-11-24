@@ -1,0 +1,77 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI amends NBFC securitisation directions: demat only, ₹1 crore minimum ticket size",
+ "reference": "RBI/2026-27/306 DOR.STR.REC.258/21-04-177/2026-27",
+ "issued_on": "November 23, 2026",
+ "effective_from": "April 01, 2027",
+ "format": "table",
+ "summary_points": [
+  "Securitisation notes must be issued, held and transferred only in dematerialised form.",
+  "Minimum ticket size is ₹1 crore at issuance and at every subsequent transfer.",
+  "Amortising notes may trade at amortised value even if ticket size falls below ₹1 crore.",
+  "Notes issued before April 01, 2027 must also comply with Paras 26 and 27 for transactions."
+ ],
+ "table": {
+  "columns": [
+   "Para",
+   "Change",
+   "Key requirement"
+  ],
+  "rows": [
+   [
+    "26 (substituted)",
+    "Demat and ticket size",
+    "Demat only; minimum ₹1 crore at issuance and transfers"
+   ],
+   [
+    "26 (proviso)",
+    "Amortising notes",
+    "Can trade at amortised value below ₹1 crore"
+   ],
+   [
+    "26 (Explanation)",
+    "Ticket size meaning",
+    "Size of investment by a single investor"
+   ],
+   [
+    "26 (originator duty)",
+    "SPE arrangements",
+    "Agreement must require SPE to arrange with registrar, depository, stock exchange etc."
+   ],
+   [
+    "27 (substituted)",
+    "Public offer",
+    "Comply with Regulation 21 of SEBI SDI/SR Regulations, 2008"
+   ],
+   [
+    "27A (inserted)",
+    "Existing notes",
+    "Transactions in notes issued before April 01, 2027 must comply with Paras 26 and 27"
+   ]
+  ]
+ },
+ "who_is_affected": "NBFCs and other originators, SPEs, trustees and investors dealing in securitisation notes under the RBI Securitisation Transactions Directions, 2025.",
+ "action_required": "Review SPE agreements and note structures, arrange demat and ticket-size controls, and align existing notes' transfers before April 01, 2027.",
+ "social": {
+  "linkedin": "RBI has issued the NBFC (Securitisation Transactions) Amendment Directions, 2026 (RBI/2026-27/306), dated November 23, 2026, effective April 01, 2027.\n\nKey changes to the 2025 Directions:\n\n• Securitisation notes must be issued, held and transferred only in demat form.\n• Minimum ticket size of ₹1 crore at issuance and at every subsequent transfer, measured per single investor.\n• Amortising notes may trade at amortised value even if below ₹1 crore.\n• Originators must ensure the SPE agreement requires arrangements with registrars, depositories and exchanges to enforce the ticket-size rule.\n• Public offers must comply with Regulation 21 of the SEBI SDI/SR Regulations, 2008.\n• Notes issued before April 01, 2027 are covered for future transactions.\n\nNBFCs, originators and SPEs should review documentation and systems well ahead of the effective date.\n\nPlease verify the details with the official RBI notification before acting.",
+  "x": "RBI amends NBFC securitisation directions: notes only in demat form, minimum ₹1 crore ticket size at issue and transfer, effective April 01, 2027. Covers existing notes too. Read more.",
+  "instagram": "📢 RBI update for NBFCs!\n\nNew Amendment Directions on securitisation transactions come into effect from April 1, 2027.\n\n✅ Securitisation notes only in demat form\n✅ Minimum ticket size ₹1 crore, even on transfers\n✅ Amortising notes can trade at amortised value\n✅ Existing notes' transactions must comply too\n\nOriginators and SPEs, time to review your agreements! 🏦\n\nAlways check the official RBI notification.",
+  "whatsapp": "*RBI: NBFC Securitisation Amendment Directions, 2026*\n\nFrom 01-04-2027: notes only in demat form; minimum ticket size ₹1 crore at issue and transfer (amortised value exception). Public offers must follow SEBI Reg 21. Applies to transactions in older notes too.\n\nRef: RBI/2026-27/306",
+  "hashtags": [
+   "#RBI",
+   "#NBFC",
+   "#Securitisation",
+   "#RBIDirections",
+   "#Compliance",
+   "#Finance"
+  ]
+ },
+ "id": "20261124-c6c557ca1a47",
+ "created_at": "2026-11-24T00:10:16+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
+ "source_title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

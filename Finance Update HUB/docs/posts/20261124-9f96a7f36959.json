@@ -1,0 +1,77 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI mandates demat form and ₹1 crore minimum ticket size for AIFI securitisation notes",
+ "reference": "RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27",
+ "issued_on": "November 23, 2026",
+ "effective_from": "April 01, 2027",
+ "format": "table",
+ "summary_points": [
+  "RBI amends the AIFI Securitisation Transactions Directions, 2025 under Section 45L of the RBI Act, 1934.",
+  "Securitisation notes must be issued, held and transferred only in dematerialised form.",
+  "Minimum ticket size of ₹1 crore applies at issuance and on every subsequent transfer.",
+  "Transactions in notes issued before April 01, 2027 must also comply with Paras 26 and 27."
+ ],
+ "table": {
+  "columns": [
+   "Para",
+   "Change",
+   "Key requirement"
+  ],
+  "rows": [
+   [
+    "26 (substituted)",
+    "Demat form and ticket size",
+    "Only dematerialised form; minimum ₹1 crore at issuance and on transfers"
+   ],
+   [
+    "26 (proviso)",
+    "Amortising notes",
+    "May trade at amortised value even if ticket size falls below ₹1 crore"
+   ],
+   [
+    "26 (explanation)",
+    "Ticket size meaning",
+    "Size of investment by a single investor"
+   ],
+   [
+    "26 (originator duty)",
+    "SPE arrangements",
+    "Agreement with SPE must require arrangements with registrar, depository, stock exchange etc. to ensure compliance"
+   ],
+   [
+    "27 (substituted)",
+    "Public offers",
+    "Regulation 21 of SEBI (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008 to be complied with"
+   ],
+   [
+    "27A (inserted)",
+    "Existing notes",
+    "Transactions in notes issued before April 01, 2027 must also comply with Paras 26 and 27"
+   ]
+  ]
+ },
+ "who_is_affected": "All India Financial Institutions acting as originators, SPEs, and investors or intermediaries in securitisation notes.",
+ "action_required": "Review securitisation structures and SPE agreements, and ensure demat arrangements and the ₹1 crore ticket-size controls are in place before April 01, 2027, including for existing notes.",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 on November 23, 2026.\n\nKey changes to the 2025 Directions, effective April 01, 2027:\n\n• Securitisation notes must be issued, held and transferred only in dematerialised form.\n• Minimum ticket size of ₹1 crore at issuance and at every subsequent transfer, with amortising notes allowed to trade at amortised value.\n• Originators must ensure SPE agreements require arrangements with registrars, depositories and exchanges to ensure compliance.\n• Public offers must comply with Regulation 21 of the SEBI securitised debt instruments regulations, 2008.\n• Notes issued before April 01, 2027 are also covered for transactions after that date.\n\nAIFIs and their advisers should review existing structures and documentation well ahead of the effective date.\n\nPlease verify the details with the official RBI notification (RBI/2026-27/307) before acting.",
+  "x": "RBI amends AIFI securitisation directions: notes only in demat form, ₹1 crore minimum ticket size at issue and transfer, effective April 1, 2027. Covers existing notes too. Read more.",
+  "instagram": "📢 RBI update for securitisation!\n\nNew amendment to the AIFI Securitisation Directions:\n\n✅ Notes only in demat form\n✅ Minimum ticket size ₹1 crore, at issue and every transfer\n✅ Amortising notes can trade at amortised value\n✅ Applies to transactions in older notes too\n\n🗓️ Effective April 1, 2027\n\nIf you work with AIFIs or securitisation structures, time to review your documents! 💼\n\nAlways check the official RBI notification.",
+  "whatsapp": "*RBI: AIFI Securitisation Amendment Directions, 2026*\n\n• Notes only in *demat* form\n• Minimum ticket size *₹1 crore* at issue and transfers\n• Applies to transactions in older notes too\n• Effective *April 1, 2027*\n\nRef: RBI/2026-27/307",
+  "hashtags": [
+   "#RBI",
+   "#Securitisation",
+   "#AIFI",
+   "#BankingRegulation",
+   "#RBIDirections",
+   "#Compliance"
+  ]
+ },
+ "id": "20261124-9f96a7f36959",
+ "created_at": "2026-11-24T00:09:37+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+ "source_title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

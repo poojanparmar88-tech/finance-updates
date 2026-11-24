@@ -1,5 +1,77 @@
 [
  {
+  "id": "20261124-98c9fe5136f1",
+  "regulator": "MCA",
+  "category": "Advisory",
+  "headline": "MCA publishes FAQs on registration of foreign companies and subsidiaries of foreign bodies",
+  "reference": "",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T00:10:34+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261124-d86b42f10ce7",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI Governor meets NBFC, HFC heads; stresses customer focus, CKYCR use and cyber security",
+  "reference": "Press Release: 2026-2027/1554",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T00:10:26+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-c6c557ca1a47",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI amends NBFC securitisation directions: demat only, ₹1 crore minimum ticket size",
+  "reference": "RBI/2026-27/306 DOR.STR.REC.258/21-04-177/2026-27",
+  "issued_on": "November 23, 2026",
+  "created_at": "2026-11-24T00:10:16+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-18f315dd0b0d",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Madras HC refuses to dismiss Bangladesh's plea to cancel 'Tangail Sarees of Bengal' GI",
+  "reference": "West Bengal State Handloom Weavers Co-operative Society Ltd vs Deputy Commissioner Tangail, (GI) A No. 1 of 2026 in OP(GI) No. 1 of 2025, Madras High Court, 2026:MHC:4695 (GI)",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-24T00:10:03+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261124-c8f5b507b660",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI to conduct ₹50,000 crore overnight VRR auction under LAF on November 25, 2026",
+  "reference": "Press Release 2026-2027/1555",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T00:09:45+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-9f96a7f36959",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI mandates demat form and ₹1 crore minimum ticket size for AIFI securitisation notes",
+  "reference": "RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27",
+  "issued_on": "November 23, 2026",
+  "created_at": "2026-11-24T00:09:37+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261123-f51f30f7bce7",
   "regulator": "RBI",
   "category": "Press Release",
