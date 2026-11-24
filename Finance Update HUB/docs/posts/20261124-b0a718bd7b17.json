@@ -1,0 +1,45 @@
+{
+ "relevant": true,
+ "regulator": "High Court",
+ "category": "Judgment",
+ "headline": "Allahabad HC: Interstate-registered deeds void; SBI cannot auction third-party land in DRT recovery",
+ "reference": "Dharmendra Kumar & Anr. v. State Bank of India, Writ-C No. 1002220 of 2012, Allahabad High Court (Lucknow Bench), Neutral Citation 2026:AHC-LKO:83650",
+ "issued_on": "2026-11-23",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "Issue: whether SBI could auction Lucknow land under DRT recovery on an equitable mortgage based on sale deeds registered in Mumbai in 1996.",
+  "Held: the Mumbai registration violated the U.P. Registration Amendment Act 1994 (Art. 254(2)); the deeds conferred no title and created no valid mortgage.",
+  "Held: Section 53-A TPA is only a defensive shield, not a tool for a lender; the 2012 confirmation of the 2003 auction was a nullity.",
+  "DRT order of 06.08.2007, DRAT order of 26.04.2011 and Recovery Officer's 10.04.2012 order were quashed; the 31.05.2004 release order was restored.",
+  "Impact: banks must verify title and registration validity; SBI may still recover from borrowers or guarantors and their other assets."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Banks and financial institutions relying on equitable mortgages, purchasers of secured assets, and lawyers handling DRT recovery and SARFAESI matters.",
+ "action_required": "Review title and registration validity, including State-specific registration rules, before accepting mortgages, and avoid reviving stale auctions without fresh attachment, valuation and public auction.",
+ "social": {
+  "linkedin": "Allahabad High Court (Lucknow Bench) has quashed DRT and DRAT orders that allowed SBI to proceed against land belonging to third-party purchasers.\n\nThe bank's equitable mortgage rested on sale deeds registered in Mumbai in 1996 for Uttar Pradesh land. The Court held that this violated the U.P. Registration (Amendment) Act, 1994, which prevails in the State under Article 254(2). The deeds conferred no title, so no valid mortgage could arise.\n\nKey takeaways:\n- Section 53-A of the Transfer of Property Act is a defensive shield, not a weapon for a lender.\n- Confirming a 2003 auction in 2012, without fresh attachment, valuation and public auction, was held to be a nullity.\n- The Recovery Officer's 2004 order releasing the property was restored.\n- SBI remains free to proceed against the borrowers, guarantors and their other assets.\n\nFor lenders, the lesson is clear: scrutinise title documents and the registration jurisdiction before relying on them as security.\n\nPlease verify the details against the official judgment before relying on this update.",
+  "x": "Allahabad HC (Lucknow): Mumbai-registered deeds for UP land void under the 1994 UP Registration Amendment; SBI's DRT recovery against third-party owners quashed. Read more in the update.",
+  "instagram": "🏦⚖️ Big ruling for lenders and property buyers!\n\nAllahabad High Court has quashed DRT/DRAT orders that let SBI auction land owned by genuine purchasers.\n\n📌 Sale deeds for UP land registered in Mumbai were held void under the UP Registration Amendment 1994\n📌 No valid title meant no valid mortgage\n📌 A 2003 auction confirmed in 2012 was held a nullity\n\n✅ SBI can still recover from the borrowers and their other assets.\n\nLesson: always verify title and registration validity! 🔍",
+  "whatsapp": "*Allahabad HC: SBI cannot auction third-party land*\n\nSale deeds for UP land registered in Mumbai (1996) were held void under the UP Registration Amendment 1994, so no valid mortgage arose. DRT, DRAT and Recovery Officer orders quashed. SBI may still pursue the borrowers.\n\nVerify with the official judgment.",
+  "hashtags": [
+   "#AllahabadHighCourt",
+   "#SBI",
+   "#DRT",
+   "#RecoveryOfDebts",
+   "#BankingLaw",
+   "#EquitableMortgage",
+   "#TransferOfPropertyAct",
+   "#Judgment"
+  ]
+ },
+ "id": "20261124-b0a718bd7b17",
+ "created_at": "2026-11-24T12:46:21+00:00",
+ "source_url": "https://indiankanoon.org/doc/130811657/",
+ "source_title": "Dharmendra Kumar And Another vs State Bank Of India Central Office At ... on 23 November, 2026",
+ "source_domain": "indiankanoon.org",
+ "source_type": "judgment"
+}

@@ -1,0 +1,77 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI mandates demat form and ₹1 crore minimum ticket size for securitisation notes",
+ "reference": "RBI/2026-27/304 DOR.STR.REC.256/21-04-177/2026-27",
+ "issued_on": "November 23, 2026",
+ "effective_from": "April 1, 2027",
+ "format": "table",
+ "summary_points": [
+  "RBI has issued Amendment Directions to the Commercial Banks - Securitisation Transactions Directions, 2025 under sections 21 and 35A of the BR Act, 1949.",
+  "Securitisation notes must be issued, held and transferred only in dematerialised form, with a minimum ticket size of ₹1 crore per investor.",
+  "Notes issued before April 1, 2027 will also have to comply with Paragraphs 27 and 28 for transactions after that date."
+ ],
+ "table": {
+  "columns": [
+   "Paragraph",
+   "Change",
+   "Key requirement"
+  ],
+  "rows": [
+   [
+    "27 (substituted)",
+    "Demat form and ticket size",
+    "Only dematerialised notes; minimum ₹1 crore at issuance and on every transfer"
+   ],
+   [
+    "27 (proviso)",
+    "Amortising notes",
+    "May be traded at amortised value even if ticket size falls below ₹1 crore"
+   ],
+   [
+    "27 (explanation)",
+    "Ticket size defined",
+    "Size of investment by a single investor"
+   ],
+   [
+    "27 (originator duty)",
+    "SPE arrangements",
+    "Originator must ensure SPE agreement requires arrangements with registrar, depository, exchange etc."
+   ],
+   [
+    "28 (substituted)",
+    "Public offers",
+    "Regulation 21 of SEBI (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008 to be complied with"
+   ],
+   [
+    "28A (inserted)",
+    "Legacy notes",
+    "Transactions in notes issued before April 1, 2027 must also follow Paragraphs 27 and 28"
+   ]
+  ]
+ },
+ "who_is_affected": "Commercial banks acting as originators or investors in securitisation, SPEs, and investors dealing in securitisation notes.",
+ "action_required": "Review SPE agreements and note structures, and put demat and ₹1 crore ticket-size arrangements in place before April 1, 2027, including for existing notes.",
+ "social": {
+  "linkedin": "RBI has issued the Commercial Banks - Securitisation Transactions Amendment Directions, 2026 (RBI/2026-27/304, dated November 23, 2026), effective April 1, 2027.\n\nKey changes to the 2025 Directions:\n\n• Securitisation notes must be issued, held and transferred only in dematerialised form.\n• Minimum ticket size is ₹1 crore at issuance and at every subsequent transfer, measured per single investor.\n• Amortising notes may trade at amortised value even if the ticket falls below ₹1 crore.\n• Originators must ensure SPE agreements provide for arrangements with registrars, depositories and exchanges to ensure compliance.\n• Public offers must comply with Regulation 21 of the SEBI securitised debt instruments regulations.\n• Transactions in notes issued before April 1, 2027 must also comply.\n\nBanks, SPEs and investors should review existing structures and documentation well ahead of the effective date.\n\nPlease verify with the official RBI notification before acting.",
+  "x": "RBI amends Securitisation Directions: notes only in demat form, ₹1 crore minimum ticket size per investor, applies to legacy notes too. Effective April 1, 2027. RBI/2026-27/304. Read more.",
+  "instagram": "🏦 RBI update on securitisation!\n\nFrom April 1, 2027:\n✅ Securitisation notes only in demat form\n✅ Minimum ticket size ₹1 crore, at issuance and every transfer\n✅ Amortising notes can trade at amortised value\n✅ Older notes must follow the rules too\n\nBanks, SPEs and investors, time to review your documents! 📄\n\nCheck the official RBI notification for full details.",
+  "whatsapp": "*RBI: Securitisation Amendment Directions, 2026*\n\nFrom 1 April 2027, securitisation notes must be in demat form with a minimum ticket size of ₹1 crore per investor (issuance and transfers). Applies to notes issued earlier too. Ref: RBI/2026-27/304 dated 23 Nov 2026.",
+  "hashtags": [
+   "#RBI",
+   "#Securitisation",
+   "#Banking",
+   "#RBIDirections",
+   "#NBFC",
+   "#Compliance",
+   "#DebtMarkets"
+  ]
+ },
+ "id": "20261124-bb9cdba248c0",
+ "created_at": "2026-11-24T12:46:34+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+ "source_title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

@@ -1,0 +1,76 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI amends SFB securitisation directions: demat-only notes, ₹1 crore minimum ticket size",
+ "reference": "RBI/2026-27/305 DOR.STR.REC.257/21-04-177/2026-27",
+ "issued_on": "November 23, 2026",
+ "effective_from": "April 01, 2027",
+ "format": "table",
+ "summary_points": [
+  "RBI has issued the Small Finance Banks - Securitisation Transactions Amendment Directions, 2026 under sections 21 and 35A of the Banking Regulation Act, 1949.",
+  "Securitisation notes must be issued, held and transferred only in dematerialised form, with a minimum ticket size of ₹1 crore.",
+  "The amendments apply from April 01, 2027 and also cover transactions in notes issued before that date."
+ ],
+ "table": {
+  "columns": [
+   "Para",
+   "Change",
+   "Key requirement"
+  ],
+  "rows": [
+   [
+    "26 (substituted)",
+    "Demat form and ticket size",
+    "Notes only in demat form; minimum ticket size ₹1 crore at issuance and on every transfer"
+   ],
+   [
+    "26 (proviso)",
+    "Amortising notes",
+    "May be traded at amortised value even if ticket size falls below ₹1 crore"
+   ],
+   [
+    "26 (explanation)",
+    "Ticket size meaning",
+    "Size of investment by a single investor"
+   ],
+   [
+    "26 (originator duty)",
+    "SPE arrangements",
+    "Agreement with SPE must require arrangements with registrar, depository, stock exchange etc. to ensure compliance"
+   ],
+   [
+    "27 (substituted)",
+    "Public offer",
+    "Regulation 21 of SEBI (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008 to be complied with"
+   ],
+   [
+    "27A (inserted)",
+    "Legacy notes",
+    "Transactions in notes issued before April 01, 2027 must also comply with Paras 26 and 27"
+   ]
+  ]
+ },
+ "who_is_affected": "Small finance banks acting as originators in securitisation, the SPEs they use, and investors in securitisation notes.",
+ "action_required": "Small finance banks should revise SPE agreements and processes to ensure demat form and ₹1 crore ticket-size compliance, including for existing notes, before April 01, 2027.",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 (RBI/2026-27/305, dated November 23, 2026).\n\nKey changes to the 2025 Directions:\n\n• Para 26 now requires securitisation notes to be issued, held and transferred only in dematerialised form.\n• Minimum ticket size is ₹1 crore at issuance and at every subsequent transfer. Amortising notes may trade at amortised value even if below ₹1 crore.\n• Originators must ensure the SPE agreement provides for arrangements with registrars, depositories and exchanges to ensure compliance.\n• Para 27 requires compliance with Regulation 21 of the SEBI securitised debt instruments regulations for public offers.\n• New Para 27A extends Paras 26 and 27 to transactions in notes issued before April 01, 2027.\n\nThe Directions come into effect from April 01, 2027, so small finance banks and SPEs should review existing structures and documentation now.\n\nPlease verify with the official RBI notification before acting.",
+  "x": "RBI amends SFB securitisation directions: notes only in demat form, ₹1 crore minimum ticket size, extended to earlier-issued notes. Effective April 01, 2027. Read more in the RBI notification.",
+  "instagram": "🏦 RBI update for Small Finance Banks!\n\nNew securitisation amendments (effective April 1, 2027):\n\n✅ Securitisation notes only in demat form\n✅ Minimum ticket size ₹1 crore, even on transfers\n✅ Amortising notes can trade at amortised value\n✅ Rules also apply to notes issued before April 2027\n\nOriginators need to update SPE agreements well in time. 📄\n\nCheck the official RBI notification for full details.",
+  "whatsapp": "*RBI: SFB Securitisation Amendment Directions, 2026*\n\n• Notes only in demat form\n• Minimum ticket size ₹1 crore (issue and transfers)\n• Also applies to notes issued before April 01, 2027\n• Effective April 01, 2027\n\nRef: RBI/2026-27/305. Verify on rbi.org.in.",
+  "hashtags": [
+   "#RBI",
+   "#SmallFinanceBanks",
+   "#Securitisation",
+   "#BankingRegulation",
+   "#RBIDirections",
+   "#Compliance"
+  ]
+ },
+ "id": "20261124-ed12a0a6ae82",
+ "created_at": "2026-11-24T12:45:54+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+ "source_title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

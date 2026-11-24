@@ -1,0 +1,72 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Press Release",
+ "headline": "RBI: Auction of four GoI dated securities worth ₹33,000 crore on 27 November 2026",
+ "reference": "Press Release 2026-2027/1551; GoI Notification F.No.4(1)-B(W&M)/2026 dated November 23, 2026",
+ "issued_on": "2026-11-23",
+ "effective_from": "2026-11-27",
+ "format": "table",
+ "summary_points": [
+  "GoI has announced re-issue of four dated securities for a total notified amount of ₹33,000 crore.",
+  "GoI may retain additional subscription up to ₹2,000 crore against each security; auction uses multiple price method.",
+  "Bids go through RBI e-Kuber on 27 November 2026; results the same day, settlement on 30 November 2026.",
+  "Up to 5% of each notified amount is reserved for non-competitive bidders, including via the Retail Direct portal."
+ ],
+ "table": {
+  "columns": [
+   "Security",
+   "Repayment date",
+   "Notified amount (₹ crore)"
+  ],
+  "rows": [
+   [
+    "6.20% GS 2029",
+    "Aug 17, 2029",
+    "9,000"
+   ],
+   [
+    "6.57% GS 2033",
+    "Aug 17, 2033",
+    "12,000"
+   ],
+   [
+    "7.63% GS 2056",
+    "Sep 15, 2056",
+    "9,000"
+   ],
+   [
+    "7.50% GOI SGrB 2056",
+    "Apr 27, 2056",
+    "3,000"
+   ],
+   [
+    "Total",
+    "",
+    "33,000"
+   ]
+  ]
+ },
+ "who_is_affected": "Banks, Primary Dealers, institutional investors and retail investors bidding in Government securities auctions.",
+ "action_required": "Submit competitive bids (10:30-11:30 a.m.) or non-competitive bids (10:30-11:00 a.m.) on e-Kuber on 27 November 2026 and fund payment by 30 November 2026.",
+ "social": {
+  "linkedin": "RBI has issued a press release announcing the auction of four Government of India dated securities for a notified amount of ₹33,000 crore.\n\nSecurities on offer: 6.20% GS 2029 (₹9,000 crore), 6.57% GS 2033 (₹12,000 crore), 7.63% GS 2056 (₹9,000 crore) and 7.50% GOI SGrB 2056 (₹3,000 crore).\n\nKey points:\n- Auction date: 27 November 2026 (Friday), multiple price method\n- Settlement: 30 November 2026 (Monday)\n- GoI can retain additional subscription of up to ₹2,000 crore per security\n- Non-competitive bids: 10:30-11:00 a.m.; competitive bids: 10:30-11:30 a.m. on e-Kuber\n- Up to 5% of each notified amount is reserved for the non-competitive segment\n- 'When Issued' trading is permitted from 25 to 27 November 2026\n\nTreasury teams, banks and Primary Dealers should plan bids and funding accordingly.\n\nPlease verify the details with the official RBI press release before acting.",
+  "x": "RBI: GoI to auction four dated securities worth ₹33,000 crore on 27 Nov 2026. Multiple price method; settlement on 30 Nov. Check the full details on the RBI website.",
+  "instagram": "📢 Government securities auction alert!\n\nGoI is selling 4 dated securities worth ₹33,000 crore through RBI.\n\n🗓️ Auction: 27 Nov 2026\n💰 Settlement: 30 Nov 2026\n📈 Method: Multiple price\n🧾 Up to 5% reserved for non-competitive bids, including Retail Direct investors\n\nTreasury teams and investors, mark your calendars! Check the RBI website for full details.",
+  "whatsapp": "*RBI: G-Sec Auction*\nGoI will auction 4 dated securities worth *₹33,000 crore* on *27 Nov 2026* (multiple price method). Settlement: 30 Nov 2026. Bids via e-Kuber; up to 5% reserved for non-competitive bidders. Verify on rbi.org.in.",
+  "hashtags": [
+   "#RBI",
+   "#GSec",
+   "#GovernmentSecurities",
+   "#DebtMarket",
+   "#BondAuction",
+   "#Treasury"
+  ]
+ },
+ "id": "20261124-02385ce637ec",
+ "created_at": "2026-11-24T12:46:59+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64029",
+ "source_title": "Auction of Government of India Dated Securities",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}

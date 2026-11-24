@@ -1,5 +1,77 @@
 [
  {
+  "id": "20261124-02385ce637ec",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI: Auction of four GoI dated securities worth ₹33,000 crore on 27 November 2026",
+  "reference": "Press Release 2026-2027/1551; GoI Notification F.No.4(1)-B(W&M)/2026 dated November 23, 2026",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T12:46:59+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-d12dbc7458c0",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI: SGB 2021-22 Series I premature redemption price set at ₹12,612 per unit",
+  "reference": "RBI Press Release 2026-2027/1552",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T12:46:43+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-bb9cdba248c0",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI mandates demat form and ₹1 crore minimum ticket size for securitisation notes",
+  "reference": "RBI/2026-27/304 DOR.STR.REC.256/21-04-177/2026-27",
+  "issued_on": "November 23, 2026",
+  "created_at": "2026-11-24T12:46:34+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-b0a718bd7b17",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Allahabad HC: Interstate-registered deeds void; SBI cannot auction third-party land in DRT recovery",
+  "reference": "Dharmendra Kumar & Anr. v. State Bank of India, Writ-C No. 1002220 of 2012, Allahabad High Court (Lucknow Bench), Neutral Citation 2026:AHC-LKO:83650",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T12:46:21+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261124-6e9681f98e12",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI Governor meets UCB CEOs; stresses governance, cybersecurity and grievance redressal",
+  "reference": "Press Release: 2026-2027/1553",
+  "issued_on": "2026-11-23",
+  "created_at": "2026-11-24T12:46:04+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261124-ed12a0a6ae82",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI amends SFB securitisation directions: demat-only notes, ₹1 crore minimum ticket size",
+  "reference": "RBI/2026-27/305 DOR.STR.REC.257/21-04-177/2026-27",
+  "issued_on": "November 23, 2026",
+  "created_at": "2026-11-24T12:45:54+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261124-98c9fe5136f1",
   "regulator": "MCA",
   "category": "Advisory",
