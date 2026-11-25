@@ -1,0 +1,42 @@
+{
+ "relevant": true,
+ "regulator": "GST",
+ "category": "Notification",
+ "headline": "CBIC amends Rule 20 of CGST Rules on cancellation of registration, effective 1 Dec 2026",
+ "reference": "Notification No. 08/2026-Central Tax dated 25 November 2026 (CGST Second Amendment Rules, 2026)",
+ "issued_on": "2026-11-25",
+ "effective_from": "2026-12-01",
+ "format": "summary",
+ "summary_points": [
+  "CBIC notifies the Central Goods and Services Tax (Second Amendment) Rules, 2026, amending Rule 20 of the CGST Rules, 2017.",
+  "New sub-rule (5): if returns are filed in time and all dues paid, registration is cancelled electronically by the common portal from the date sought, communicated in FORM GST REG-38.",
+  "New sub-rule (6): if returns or CMP-08 statements are not furnished or dues remain unpaid, the application goes to the proper officer for examination.",
+  "The amendment comes into force on 1 December 2026."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Registered taxpayers applying for voluntary cancellation of GST registration, including composition taxpayers, and tax officers handling such applications.",
+ "action_required": "Before applying for cancellation on or after 1 December 2026, file all required returns and CMP-08 statements and clear all tax, interest, fee and penalty dues to enable automatic cancellation.",
+ "social": {
+  "linkedin": "CBIC has notified a change to Rule 20 of the CGST Rules, 2017, which governs cancellation of registration on the taxpayer's application.\n\nNotification No. 08/2026-Central Tax, dated 25 November 2026, comes into force on 1 December 2026.\n\nWhat changes:\n\n- Where the cancellation application is filed, the required returns are furnished within the specified time and all tax, interest, fee or penalty is paid, the common portal will cancel the registration electronically from the date sought. This will be communicated in FORM GST REG-38.\n\n- Where returns or CMP-08 statements (where applicable) are not furnished, or dues remain unpaid, the application will be forwarded to the proper officer for examination.\n\nPractical takeaway: clean compliance before applying can mean a system-driven cancellation without officer intervention. Businesses planning to exit GST registration should review their return and payment status first.\n\nPlease verify the details with the official CBIC notification before acting.",
+  "x": "CBIC Notification 08/2026-CT amends Rule 20 CGST Rules: registration cancellation to be done electronically via portal (REG-38) when returns filed and dues paid; else referred to officer. Effective 1 Dec 2026. Read more.",
+  "instagram": "📢 GST update!\n\nCBIC has amended Rule 20 of the CGST Rules via Notification 08/2026-Central Tax.\n\n✅ Returns filed + dues paid = registration cancelled electronically by the portal (FORM GST REG-38), from the date you sought\n⚠️ Returns/CMP-08 pending or dues unpaid = application goes to the proper officer\n\n🗓️ Effective 1 December 2026\n\nPlanning to surrender your GST registration? Clear your filings and dues first! 💡\n\nAlways check the official CBIC notification.",
+  "whatsapp": "*GST Update: Rule 20 CGST Rules amended*\n\nNotification 08/2026-Central Tax (25 Nov 2026), effective *1 Dec 2026*.\n\n• Returns filed + dues paid: portal cancels registration electronically (REG-38)\n• Returns/CMP-08 pending or dues unpaid: sent to proper officer\n\nFile returns and clear dues before applying for cancellation.",
+  "hashtags": [
+   "#GST",
+   "#CGST",
+   "#CBIC",
+   "#GSTRegistration",
+   "#GSTUpdate",
+   "#IndirectTax"
+  ]
+ },
+ "id": "20261125-c838cb338308",
+ "created_at": "2026-11-25T21:53:12+00:00",
+ "source_url": "https://taxinformation.cbic.gov.in/view-pdf/1010838/ENG/Notifications",
+ "source_title": "Notification No. 08/2026- Central Tax: Amendment in CGST Rules,2017.",
+ "source_domain": "taxinformation.cbic.gov.in",
+ "source_type": "official"
+}

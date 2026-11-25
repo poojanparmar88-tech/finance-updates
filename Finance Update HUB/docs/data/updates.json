@@ -1,5 +1,41 @@
 [
  {
+  "id": "20261125-8e7a2ef17cd5",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI releases 47th Half-Yearly Report on Management of Forex Reserves (Apr–Sep 2026)",
+  "reference": "Press Release: 2026-2027/1564",
+  "issued_on": "2026-11-25",
+  "created_at": "2026-11-25T21:53:23+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261125-c838cb338308",
+  "regulator": "GST",
+  "category": "Notification",
+  "headline": "CBIC amends Rule 20 of CGST Rules on cancellation of registration, effective 1 Dec 2026",
+  "reference": "Notification No. 08/2026-Central Tax dated 25 November 2026 (CGST Second Amendment Rules, 2026)",
+  "issued_on": "2026-11-25",
+  "created_at": "2026-11-25T21:53:12+00:00",
+  "format": "summary",
+  "source_domain": "taxinformation.cbic.gov.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261125-8e50eea35e99",
+  "regulator": "RBI",
+  "category": "Press Release",
+  "headline": "RBI to hold ₹75,000 crore overnight VRR auction under LAF on November 26, 2026",
+  "reference": "Press Release 2026-2027/1565",
+  "issued_on": "November 25, 2026",
+  "created_at": "2026-11-25T21:52:59+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261125-ee3c4304437c",
   "regulator": "RBI",
   "category": "Press Release",
