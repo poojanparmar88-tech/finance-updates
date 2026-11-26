@@ -1,0 +1,42 @@
+{
+ "relevant": true,
+ "regulator": "High Court",
+ "category": "Judgment",
+ "headline": "Bombay HC: No appeal against assessment needed to claim refund of excess anti-dumping duty",
+ "reference": "Commissioner of Customs, Nhava Sheva III vs Polynova Industries Ltd., Customs Appeal No. 68 of 2026, Bombay High Court, judgment dated 25 November 2026",
+ "issued_on": "2026-11-25",
+ "effective_from": "",
+ "format": "summary",
+ "summary_points": [
+  "Issue: must an importer challenge the original assessment of Bills of Entry before claiming refund of provisional anti-dumping duty (ADD) finally fixed at Nil?",
+  "Held: No. Refund flows from Section 9A(2)(b) of the Customs Tariff Act, 1975 and is automatic once the final duty is notified under Section 9A(1).",
+  "Section 9A(8) only applies Customs Act provisions as far as may be; Section 27 of the Customs Act does not govern such a refund. The Court found no provision requiring an appeal or reassessment.",
+  "The Court dismissed the Revenue's appeal, upholding CESTAT's restoration of the ₹5,41,375 ADD refund, and followed the Madras High Court in Enterprise International Ltd."
+ ],
+ "table": {
+  "columns": [],
+  "rows": []
+ },
+ "who_is_affected": "Importers who paid provisional anti-dumping duty that was later reduced or fixed at Nil, and customs officers processing such refund claims.",
+ "action_required": "Importers with excess provisional ADD can file a refund application based on the final notification without first challenging the assessment; confirm the position with the official judgment text.",
+ "social": {
+  "linkedin": "Bombay High Court on refund of anti-dumping duty\n\nIn Commissioner of Customs, Nhava Sheva III vs Polynova Industries Ltd. (25 November 2026), the Bombay High Court has held that an importer need not appeal against the assessment of Bills of Entry before claiming a refund of provisional anti-dumping duty.\n\nThe facts: provisional ADD of ₹5,41,375 was paid on PVC resin imports. The final ADD was later notified as Nil, effective from the date of the provisional duty. The Assistant Commissioner sanctioned the refund, but the first appellate authority set it aside. CESTAT restored it.\n\nThe High Court dismissed the Revenue's appeal. It held that the refund entitlement flows from Section 9A(2)(b) of the Customs Tariff Act, 1975 and becomes automatic once the final duty is notified. Section 9A(8) does not alter this, and Section 27 of the Customs Act does not govern the processing. It followed the Madras High Court in Enterprise International Ltd.\n\nPractical takeaway: importers with excess provisional ADD can claim a refund directly, without first reopening the assessment.\n\nPlease verify with the official judgment before acting.",
+  "x": "Bombay HC: importers need not appeal against assessment before claiming refund of excess provisional anti-dumping duty. Refund flows from Sec 9A(2)(b), Customs Tariff Act. Revenue appeal dismissed in Polynova Industries. Read more.",
+  "instagram": "⚖️ Customs update from Bombay High Court!\n\nPaid provisional anti-dumping duty that was later fixed at Nil? 🧾\n\nThe Court says you don't have to challenge the original assessment before claiming a refund.\n\n✅ Refund flows from Section 9A(2)(b), Customs Tariff Act\n✅ Automatic once the final duty is notified\n✅ Revenue's appeal in Polynova Industries dismissed\n\nGood news for importers with excess ADD paid. 📦\n\nAlways check the official judgment before acting.",
+  "whatsapp": "*Bombay HC on ADD refund*\nIn Commissioner of Customs vs Polynova Industries (25 Nov 2026), the Court held that importers need not appeal against assessment before claiming a refund of provisional anti-dumping duty later finalised at Nil. Refund flows from Sec 9A(2)(b), Customs Tariff Act. Revenue's appeal dismissed.",
+  "hashtags": [
+   "#Customs",
+   "#AntiDumpingDuty",
+   "#BombayHighCourt",
+   "#CustomsTariffAct",
+   "#Refund",
+   "#IndirectTax"
+  ]
+ },
+ "id": "20261126-7e62ae7ae6cb",
+ "created_at": "2026-11-26T21:48:48+00:00",
+ "source_url": "https://indiankanoon.org/doc/90555956/",
+ "source_title": "Commissioner Of Customs Nhava Seva Iii vs Polynova Industries Ltd on 25 November, 2026",
+ "source_domain": "indiankanoon.org",
+ "source_type": "judgment"
+}
