@@ -1,5 +1,41 @@
 [
  {
+  "id": "20261126-945b2b39d592",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Telangana HC: Liberty to file belated GST appeal against Sec 74 order; no coercion for 3 weeks",
+  "reference": "M/s Sri Laxmi Fertilisers & General Merchant v. Superintendent of Central Tax, Telangana High Court, W.P. No.39153 of 2026, order dated 20.11.2026",
+  "issued_on": "2026-11-20",
+  "created_at": "2026-11-26T11:14:33+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261126-978567a31277",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Calcutta HC admits Customs appeal on special warehouse licence eligibility after penalty",
+  "reference": "Principal Commissioner of Customs (Airport & A.C.C), Kolkata vs M/s Nuance Group (India) Pvt Ltd, CUSTA/114/2026, Calcutta High Court, order dated 25 November 2026",
+  "issued_on": "2026-11-25",
+  "created_at": "2026-11-26T11:14:17+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261126-544f77eae3f9",
+  "regulator": "RBI",
+  "category": "Circular",
+  "headline": "RBI: UNSC ISIL & Al-Qaida Sanctions List amended for one entry; UAPA s.51A compliance",
+  "reference": "RBI/2026-27/309 DoR.AML.REC.261/14.06.001/2026-27",
+  "issued_on": "November 26, 2026",
+  "created_at": "2026-11-26T11:13:53+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261125-8e7a2ef17cd5",
   "regulator": "RBI",
   "category": "Press Release",
