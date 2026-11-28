@@ -1,5 +1,53 @@
 [
  {
+  "id": "20261128-8eda89868fa7",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI issues Directions, 2026 on cash withdrawals via ATMs and POS terminals",
+  "reference": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+  "issued_on": "",
+  "created_at": "2026-11-28T10:43:11+00:00",
+  "format": "summary",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
+  "id": "20261128-a7d99b29a76f",
+  "regulator": "High Court",
+  "category": "Judgment",
+  "headline": "Bombay HC: Endosulfan association subscriptions not deductible under Section 37(1)",
+  "reference": "Sumitomo Chemical India Ltd vs DCIT, Income Tax Appeal No. 250 of 2024 with ITA Nos. 631 and 632 of 2025, Bombay High Court (G. S. Kulkarni & Dr. Neela Gokhale, JJ.)",
+  "issued_on": "27 November 2026",
+  "created_at": "2026-11-28T10:42:54+00:00",
+  "format": "summary",
+  "source_domain": "indiankanoon.org",
+  "source_type": "judgment"
+ },
+ {
+  "id": "20261128-963a460bd81c",
+  "regulator": "MCA",
+  "category": "Other",
+  "headline": "MCA reportedly proposes amendments to the CSR framework; key highlights published",
+  "reference": "",
+  "issued_on": "2026-11-27",
+  "created_at": "2026-11-28T10:42:40+00:00",
+  "format": "summary",
+  "source_domain": "news.google.com",
+  "source_type": "news"
+ },
+ {
+  "id": "20261128-276af5015ab2",
+  "regulator": "RBI",
+  "category": "Notification",
+  "headline": "RBI consolidates White Label ATM Operator Directions, 2026; 11 older circulars repealed",
+  "reference": "RBI/DPSS/2026-27/479 CO.DPSS.POLC.No.S908/02-10-003/2026-27",
+  "issued_on": "November 27, 2026",
+  "created_at": "2026-11-28T10:42:31+00:00",
+  "format": "table",
+  "source_domain": "rbi.org.in",
+  "source_type": "official"
+ },
+ {
   "id": "20261127-4dbc7c1f5840",
   "regulator": "RBI",
   "category": "Notification",

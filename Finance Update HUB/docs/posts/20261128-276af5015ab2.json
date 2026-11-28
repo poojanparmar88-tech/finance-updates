@@ -1,0 +1,77 @@
+{
+ "relevant": true,
+ "regulator": "RBI",
+ "category": "Notification",
+ "headline": "RBI consolidates White Label ATM Operator Directions, 2026; 11 older circulars repealed",
+ "reference": "RBI/DPSS/2026-27/479 CO.DPSS.POLC.No.S908/02-10-003/2026-27",
+ "issued_on": "November 27, 2026",
+ "effective_from": "November 27, 2026",
+ "format": "table",
+ "summary_points": [
+  "RBI has consolidated its instructions on White Label ATM Operators (WLAOs) into the RBI (White Label ATM Operators) Directions, 2026, effective immediately.",
+  "Issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007; 11 earlier circulars from 2012 to 2026 stand repealed.",
+  "WLAOs must file the monthly return WLA Statistics (R330) on the CIMS portal by the 7th of the following month."
+ ],
+ "table": {
+  "columns": [
+   "Area",
+   "Requirement"
+  ],
+  "rows": [
+   [
+    "Net worth",
+    "At least ₹100 crore as per last audited balance sheet, maintained at all times"
+   ],
+   [
+    "Capital infusion",
+    "Post-audit infusion allowed with a Chartered Accountant certificate"
+   ],
+   [
+    "Deployment ratio",
+    "Metro/urban : semi-urban : rural at least 1:2:3; reviewed at least once in six months"
+   ],
+   [
+    "Card/ATM features",
+    "All ATMs to process EMV chip and PIN cards"
+   ],
+   [
+    "Customer charges",
+    "WLAs cannot charge bank customers directly; fee only from banks"
+   ],
+   [
+    "Wholesale cash",
+    "Direct purchase from RBI Issue Offices/Currency Chests above 1 lakh pieces"
+   ],
+   [
+    "Sponsor banks",
+    "More than one sponsor bank permitted; tri-partite SLA required"
+   ],
+   [
+    "Reporting",
+    "Return R330 monthly on CIMS by the 7th of next month"
+   ]
+  ]
+ },
+ "who_is_affected": "Authorised White Label ATM Operators, sponsor banks, scheduled commercial and co-operative banks, and ATM/card payment network operators.",
+ "action_required": "WLAOs and sponsor banks should review operations and SLAs against the consolidated Directions and ensure R330 monthly filing on CIMS by the 7th.",
+ "social": {
+  "linkedin": "RBI has issued the Reserve Bank of India (White Label ATM Operators) Directions, 2026 on November 27, 2026, consolidating its earlier instructions on White Label ATMs.\n\nKey points:\n- Effective immediately; issued under Section 18 read with Section 10(2) of the PSS Act, 2007.\n- Net worth of at least ₹100 crore to be maintained at all times.\n- ATM deployment to maintain a minimum 1:2:3 ratio across metro/urban, semi-urban and rural regions.\n- WLAs cannot charge bank customers directly.\n- Monthly return R330 to be filed on CIMS by the 7th of the succeeding month.\n- 11 earlier circulars issued between 2012 and 2026 stand repealed.\n\nWLAOs, sponsor banks and network operators should map their current arrangements, SLAs and reporting processes to the new Directions.\n\nPlease verify the details with the official RBI source before acting.",
+  "x": "RBI issues White Label ATM Operators Directions, 2026: ₹100 crore net worth, 1:2:3 deployment ratio, monthly R330 return by the 7th; 11 older circulars repealed. Read more.",
+  "instagram": "🏧 RBI has consolidated its White Label ATM rules!\n\nThe new White Label ATM Operators Directions, 2026 are effective immediately.\n\n✅ ₹100 crore minimum net worth\n✅ ATMs to follow a 1:2:3 metro/semi-urban/rural ratio\n✅ No direct charges on bank customers\n✅ Monthly R330 return by the 7th\n🗑️ 11 older circulars repealed\n\nIf you work with ATM operators or sponsor banks, time to review your compliance checklist! 📋",
+  "whatsapp": "*RBI: White Label ATM Operators Directions, 2026* (27 Nov 2026)\n\nEffective immediately. Net worth ₹100 crore, deployment ratio 1:2:3 (metro:semi-urban:rural), no direct charges to bank customers, monthly R330 return on CIMS by the 7th. 11 older circulars repealed.",
+  "hashtags": [
+   "#RBI",
+   "#WhiteLabelATM",
+   "#PaymentSystems",
+   "#PSSAct",
+   "#Banking",
+   "#Compliance"
+  ]
+ },
+ "id": "20261128-276af5015ab2",
+ "created_at": "2026-11-28T10:42:31+00:00",
+ "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+ "source_title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+ "source_domain": "rbi.org.in",
+ "source_type": "official"
+}
